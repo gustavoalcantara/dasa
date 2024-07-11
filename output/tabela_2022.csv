@@ -1,0 +1,1001 @@
+cnpj,procedimento,data_atendimento,tipo_conta,valor_sinistro_pago
+45.796.554/0001-85,Procedimento diagnóstico em peça anatômica ou cirúrgica simples ,2022-11-03,Ambulatório,81.7
+45.796.554/0001-85,Procedimento diagnóstico em grupos de linfonodos. estruturas vizinhas e margens de peças anatômicas simples ou complexas (por margem) - máximo de três margens,2022-11-03,Ambulatório,43.0
+61.486.650/0584-24,Teste duplo - 1 trimestre (PAPP-A+Beta-HCG) ou outros 2 em soro ou líquido aminiótico com elaboração de laudo contendo cálculo de risco para anomalias fetais,2022-05-10,Ambulatório,540.31
+61.486.650/0584-24,US - Obstétrica gestação múltipla com Doppler colorido: cada feto ,2022-08-17,Ambulatório,360.24
+61.486.650/0584-24,Triiodotironina (T3) - pesquisa e/ou dosagem,2022-08-30,Ambulatório,63.64
+61.486.650/0584-24,Rotina de urina (caracteres físicos. elementos anormais e sedimentoscopia),2022-08-30,Ambulatório,13.72
+61.486.650/0584-24,Ferritina - pesquisa e/ou dosagem,2022-08-30,Ambulatório,116.97
+61.486.650/0584-24,T4 livre - pesquisa e/ou dosagem,2022-08-30,Ambulatório,79.54
+61.486.650/0584-24,Proteínas totais - pesquisa e/ou dosagem,2022-08-30,Ambulatório,44.06
+61.486.650/0584-24,Tiroxina (T4) - pesquisa e/ou dosagem,2022-08-30,Ambulatório,63.64
+61.486.650/0584-24,Hemoglobina glicada (A1 total) - pesquisa e/ou dosagem,2022-08-30,Ambulatório,44.06
+61.486.650/0584-24,Cultura automatizada - MICROBIOLOGIA,2022-08-30,Ambulatório,158.71
+61.486.650/0584-24,Hemograma com contagem de plaquetas ou frações (eritrograma. leucograma. plaquetas),2022-08-30,Ambulatório,29.38
+61.486.650/0584-24,Toxoplasmose IgG - pesquisa e/ou dosagem,2022-08-30,Ambulatório,78.33
+61.486.650/0584-24,Tireoestimulante. hormônio (TSH) - pesquisa e/ou dosagem,2022-08-30,Ambulatório,79.54
+61.486.650/0584-24,Glicose - pesquisa e/ou dosagem,2022-08-30,Ambulatório,13.72
+61.486.650/0584-24,Ferro sérico - pesquisa e/ou dosagem,2022-08-30,Ambulatório,17.63
+61.486.650/0584-24,Toxoplasmose IgM - pesquisa e/ou dosagem,2022-08-30,Ambulatório,34.28
+61.486.650/0584-24,Coombs indireto,2022-10-05,Ambulatório,245.61
+61.486.650/0584-24,Hepatite B - HBCAC - IgM (anti-core IgM ou Acorem) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,78.33
+61.486.650/0584-24,T4 livre - pesquisa e/ou dosagem,2022-10-05,Ambulatório,79.54
+61.486.650/0584-24,Hepatite B - HBSAC (anti-antígeno de superfície) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,58.75
+61.486.650/0584-24,Hepatite B - HBCAC - IgG (anti-core IgG ou Acoreg) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,97.93
+61.486.650/0584-24,Hemoglobina glicada (A1 total) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,44.06
+61.486.650/0584-24,Tiroxina (T4) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,63.64
+61.486.650/0584-24,Coombs indireto,2022-10-05,Ambulatório,245.61
+61.486.650/0584-24,Hepatite A - HAV - IgM - pesquisa e/ou dosagem,2022-10-05,Ambulatório,117.49
+61.486.650/0584-24,Triiodotironina (T3) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,63.64
+61.486.650/0584-24,Ferro sérico - pesquisa e/ou dosagem,2022-10-05,Ambulatório,17.63
+61.486.650/0584-24,Hepatite B - HBSAG (AU. antígeno austrália) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,68.54
+61.486.650/0584-24,HIV1+ HIV2. (determinação conjunta). pesquisa de anticorpos,2022-10-05,Ambulatório,167.65
+61.486.650/0584-24,Hemograma com contagem de plaquetas ou frações (eritrograma. leucograma. plaquetas),2022-10-05,Ambulatório,29.38
+61.486.650/0584-24,Toxoplasmose IgM - pesquisa e/ou dosagem,2022-10-05,Ambulatório,34.28
+61.486.650/0584-24,Hepatite A - HAV - IgG - pesquisa e/ou dosagem,2022-10-05,Ambulatório,97.93
+61.486.650/0584-24,Rotina de urina (caracteres físicos. elementos anormais e sedimentoscopia),2022-10-05,Ambulatório,13.72
+61.486.650/0584-24,Toxoplasmose IgG - pesquisa e/ou dosagem,2022-10-05,Ambulatório,78.33
+61.486.650/0584-24,T4 livre - pesquisa e/ou dosagem,2022-10-05,Ambulatório,79.54
+61.486.650/0584-24,Cultura automatizada - MICROBIOLOGIA,2022-10-05,Ambulatório,158.71
+61.486.650/0584-24,Hepatite C - anti-HCV - pesquisa e/ou dosagem,2022-10-05,Ambulatório,167.65
+61.486.650/0584-24,Glicose - pesquisa e/ou dosagem,2022-10-05,Ambulatório,13.72
+61.486.650/0584-24,Sífilis IgM - pesquisa e/ou dosagem,2022-10-05,Ambulatório,9.79
+61.486.650/0584-24,Hepatite B - HBSAC (anti-antígeno de superfície) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,58.75
+61.486.650/0584-24,Tireoestimulante. hormônio (TSH) - pesquisa e/ou dosagem,2022-10-05,Ambulatório,79.54
+61.486.650/0584-24,Sífilis IgM - pesquisa e/ou dosagem,2022-10-05,Ambulatório,41.13
+61.486.650/0584-24,Ferritina - pesquisa e/ou dosagem,2022-10-05,Ambulatório,116.97
+61.486.650/0584-24,Cultura automatizada - MICROBIOLOGIA,2022-10-25,Ambulatório,158.7
+61.486.650/0584-24,Cultura automatizada - MICROBIOLOGIA,2022-10-25,Ambulatório,158.7
+60.884.855/0033-31,Consulta em pronto socorro ,2022-08-07,Ambulatório,21.45
+60.884.855/0033-31,Consulta em pronto socorro ,2022-08-07,Ambulatório,235.68
+45.796.554/0001-85,US - Abdome total (abdome superior. rins. bexiga. aorta. veia cava inferior e adrenais),2022-02-12,Ambulatório,160.1
+45.796.554/0001-85,US - Abdome total (abdome superior. rins. bexiga. aorta. veia cava inferior e adrenais),2022-02-12,Ambulatório,8.48
+19.803.199/0001-14,PACOTE DE PRONTO SOCORRO,2022-05-26,Ambulatório,217.0
+../-,Testes aeróbicos em campo com determinação do lactato sanguíneo,2022-05-10,Ambulatório,90.0
+../-,Testes aeróbicos em campo com determinação do lactato sanguíneo,2022-05-20,Ambulatório,90.0
+61.486.650/0584-24,Colesterol total - pesquisa e/ou dosagem,2022-10-20,Ambulatório,13.72
+61.486.650/0584-24,Hormônio luteinizante (LH) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,63.64
+61.486.650/0584-24,Gama-glutamil transferase - pesquisa e/ou dosagem,2022-10-20,Ambulatório,19.59
+61.486.650/0584-24,Folículo estimulante. hormônio (FSH) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,63.64
+61.486.650/0584-24,Hemograma com contagem de plaquetas ou frações (eritrograma. leucograma. plaquetas),2022-10-20,Ambulatório,29.38
+61.486.650/0584-24,T4 livre - pesquisa e/ou dosagem,2022-10-20,Ambulatório,79.54
+61.486.650/0584-24,Globulina de ligação de hormônios sexuais (SHBG) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,203.66
+61.486.650/0584-24,Fosfatase alcalina - pesquisa e/ou dosagem,2022-10-20,Ambulatório,17.63
+61.486.650/0584-24,Creatinina - pesquisa e/ou dosagem,2022-10-20,Ambulatório,13.72
+61.486.650/0584-24,Ácido úrico - pesquisa e/ou dosagem,2022-10-20,Ambulatório,13.72
+61.486.650/0584-24,Colesterol (HDL) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,24.47
+61.486.650/0584-24,Hemoglobina glicada (A1 total) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,44.06
+61.486.650/0584-24,Vitamina B12 - pesquisa e/ou dosagem,2022-10-20,Ambulatório,83.23
+61.486.650/0584-24,Testosterona livre - pesquisa e/ou dosagem,2022-10-20,Ambulatório,146.88
+61.486.650/0584-24,Tireoestimulante. hormônio (TSH) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,79.54
+61.486.650/0584-24,Uréia - pesquisa e/ou dosagem,2022-10-20,Ambulatório,13.72
+61.486.650/0584-24,Transaminase pirúvica - TGP ou ALT por unidade de sangue total - pesquisa e/ou dosagem ,2022-10-20,Ambulatório,13.72
+61.486.650/0584-24,Glicose - pesquisa e/ou dosagem,2022-10-20,Ambulatório,13.72
+61.486.650/0584-24,Antiperoxidase tireoideana - pesquisa e/ou dosagem,2022-10-20,Ambulatório,81.27
+61.486.650/0584-24,Triglicerídeos - pesquisa e/ou dosagem,2022-10-20,Ambulatório,19.59
+61.486.650/0584-24,Transaminase oxalacética (amino transferase aspartato) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,13.72
+61.486.650/0584-24,Ferritina - pesquisa e/ou dosagem,2022-10-20,Ambulatório,116.97
+61.486.650/0584-24,Estradiol - pesquisa e/ou dosagem,2022-10-20,Ambulatório,90.57
+61.486.650/0584-24,Anticorpos antitireóide (tireoglobulina) - pesquisa e/ou dosagem,2022-10-20,Ambulatório,58.75
+61.486.650/0584-24,Vitamina .D. 25 HIDROXI. pesquisa e/ou dosagem (Vitamina D3) ,2022-10-20,Ambulatório,119.21
+61.486.650/0584-24,Procedimento diagnóstico citopatológico em meio líquido,2022-10-20,Ambulatório,178.66
+61.486.650/0584-24,Insulina - pesquisa e/ou dosagem,2022-10-20,Ambulatório,53.86
+61.486.650/0584-24,Cálcio iônico - pesquisa e/ou dosagem,2022-10-20,Ambulatório,19.59
+61.486.650/0584-24,Ferro sérico - pesquisa e/ou dosagem,2022-10-20,Ambulatório,17.63
+61.486.650/0584-24,Testosterona total - pesquisa e/ou dosagem,2022-10-20,Ambulatório,68.54
+61.486.650/0584-24,Mamografia digital bilateral,2022-10-31,Ambulatório,374.37
+61.486.650/0584-24,US - Mamas,2022-10-31,Ambulatório,435.33
+61.486.650/0584-24,Doppler colorido de órgão ou estrutura isolada ,2022-10-31,Ambulatório,227.98
+45.796.554/0001-85,Triglicerídeos - pesquisa e/ou dosagem,2022-02-18,Ambulatório,8.34
+45.796.554/0001-85,Antiperoxidase tireoideana - pesquisa e/ou dosagem,2022-02-18,Ambulatório,34.61
+45.796.554/0001-85,Sódio - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Capacidade de fixação de ferro - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Estradiol - pesquisa e/ou dosagem,2022-02-18,Ambulatório,41.7
+45.796.554/0001-85,Bilirrubinas (direta. indireta e total) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,6.26
+45.796.554/0001-85,Vitamina B12 - pesquisa e/ou dosagem,2022-02-18,Ambulatório,35.45
+45.796.554/0001-85,Fósforo - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Magnésio - pesquisa e/ou dosagem,2022-02-18,Ambulatório,6.67
+45.796.554/0001-85,Tiroxina (T4) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,27.11
+45.796.554/0001-85,Lipase - pesquisa e/ou dosagem,2022-02-18,Ambulatório,6.26
+45.796.554/0001-85,Prolactina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,35.45
+45.796.554/0001-85,Colesterol (HDL) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,12.51
+45.796.554/0001-85,Hemoglobina glicada (Fração A1c) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,18.77
+45.796.554/0001-85,Hormônio luteinizante (LH) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,27.11
+45.796.554/0001-85,Hemograma com contagem de plaquetas ou frações (eritrograma. leucograma. plaquetas),2022-02-18,Ambulatório,12.51
+45.796.554/0001-85,Testosterona livre - pesquisa e/ou dosagem,2022-02-18,Ambulatório,62.55
+45.796.554/0001-85,Progesterona - pesquisa e/ou dosagem,2022-02-18,Ambulatório,43.79
+45.796.554/0001-85,Transaminase oxalacética (amino transferase aspartato) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,T3 livre - pesquisa e/ou dosagem,2022-02-18,Ambulatório,35.45
+45.796.554/0001-85,Sulfato de dehidroepiandrosterona (S-DHEA) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,45.87
+45.796.554/0001-85,Insulina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,22.94
+45.796.554/0001-85,Fosfatase alcalina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,7.51
+45.796.554/0001-85,Amilase - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Potássio - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Ferritina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,52.13
+45.796.554/0001-85,Tireoestimulante. hormônio (TSH) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,35.45
+45.796.554/0001-85,Paratormônio - PTH ou fração (cada) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,83.4
+45.796.554/0001-85,Androstenediona - pesquisa e/ou dosagem,2022-02-18,Ambulatório,66.72
+45.796.554/0001-85,Apolipoproteína A (Apo A) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,33.36
+45.796.554/0001-85,Colesterol total - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Creatinina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Transaminase pirúvica - TGP ou ALT por unidade de sangue total - pesquisa e/ou dosagem ,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Ácido úrico - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Vitamina .D. 25 HIDROXI. pesquisa e/ou dosagem (Vitamina D3) ,2022-02-18,Ambulatório,66.3
+45.796.554/0001-85,Cálcio iônico - pesquisa e/ou dosagem,2022-02-18,Ambulatório,16.68
+45.796.554/0001-85,Ferro sérico - pesquisa e/ou dosagem,2022-02-18,Ambulatório,7.51
+45.796.554/0001-85,Triiodotironina (T3) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,27.11
+45.796.554/0001-85,Anticorpos antitireóide (tireoglobulina) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,43.79
+45.796.554/0001-85,Proteínas totais - pesquisa e/ou dosagem,2022-02-18,Ambulatório,6.26
+45.796.554/0001-85,Creatino fosfoquinase total (CK) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,20.85
+45.796.554/0001-85,Uréia - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Folículo estimulante. hormônio (FSH) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,27.11
+45.796.554/0001-85,Ácido fólico. pesquisa e/ou dosagem nos eritrócitos,2022-02-18,Ambulatório,35.45
+45.796.554/0001-85,Globulina de ligação de hormônios sexuais (SHBG) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,91.94
+45.796.554/0001-85,Transferrina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,25.02
+45.796.554/0001-85,Gama-glutamil transferase - pesquisa e/ou dosagem,2022-02-18,Ambulatório,8.34
+45.796.554/0001-85,T4 livre - pesquisa e/ou dosagem,2022-02-18,Ambulatório,35.45
+45.796.554/0001-85,Glicose - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.84
+45.796.554/0001-85,Magnésio - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.4
+45.796.554/0001-85,Apolipoproteína A (Apo A) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.0
+45.796.554/0001-85,Prolactina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.12
+45.796.554/0001-85,Paratormônio - PTH ou fração (cada) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,5.0
+45.796.554/0001-85,Bilirrubinas (direta. indireta e total) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.37
+45.796.554/0001-85,Androstenediona - pesquisa e/ou dosagem,2022-02-18,Ambulatório,4.0
+45.796.554/0001-85,Transaminase pirúvica - TGP ou ALT por unidade de sangue total - pesquisa e/ou dosagem ,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Insulina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.37
+45.796.554/0001-85,Fósforo - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Ferro sérico - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.45
+45.796.554/0001-85,Amilase - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Glicose - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Creatinina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Testosterona livre - pesquisa e/ou dosagem,2022-02-18,Ambulatório,3.75
+45.796.554/0001-85,Tireoestimulante. hormônio (TSH) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.12
+45.796.554/0001-85,Ácido úrico - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Transferrina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.5
+45.796.554/0001-85,Progesterona - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.62
+45.796.554/0001-85,Sulfato de dehidroepiandrosterona (S-DHEA) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.75
+45.796.554/0001-85,Triglicerídeos - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.5
+45.796.554/0001-85,Colesterol total - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Estradiol - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.5
+45.796.554/0001-85,Gama-glutamil transferase - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.5
+45.796.554/0001-85,Potássio - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Tiroxina (T4) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.62
+45.796.554/0001-85,Fosfatase alcalina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.45
+45.796.554/0001-85,Cálcio iônico - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.0
+45.796.554/0001-85,Colesterol (HDL) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.75
+45.796.554/0001-85,Ácido fólico. pesquisa e/ou dosagem nos eritrócitos,2022-02-18,Ambulatório,2.12
+45.796.554/0001-85,Hemoglobina glicada (Fração A1c) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.12
+45.796.554/0001-85,Anticorpos antitireóide (tireoglobulina) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.62
+45.796.554/0001-85,Transaminase oxalacética (amino transferase aspartato) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Creatino fosfoquinase total (CK) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.25
+45.796.554/0001-85,Ferritina - pesquisa e/ou dosagem,2022-02-18,Ambulatório,3.12
+45.796.554/0001-85,Sódio - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Capacidade de fixação de ferro - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+45.796.554/0001-85,Folículo estimulante. hormônio (FSH) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.62
+45.796.554/0001-85,Antiperoxidase tireoideana - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.08
+45.796.554/0001-85,T3 livre - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.12
+45.796.554/0001-85,Vitamina B12 - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.12
+45.796.554/0001-85,Triiodotironina (T3) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.62
+45.796.554/0001-85,T4 livre - pesquisa e/ou dosagem,2022-02-18,Ambulatório,2.12
+45.796.554/0001-85,Hemograma com contagem de plaquetas ou frações (eritrograma. leucograma. plaquetas),2022-02-18,Ambulatório,0.75
+45.796.554/0001-85,Proteínas totais - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.37
+45.796.554/0001-85,Hormônio luteinizante (LH) - pesquisa e/ou dosagem,2022-02-18,Ambulatório,1.62
+45.796.554/0001-85,Lipase - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.37
+45.796.554/0001-85,Uréia - pesquisa e/ou dosagem,2022-02-18,Ambulatório,0.35
+61.486.650/0584-24,SARS-COV-2 (Coronavírus Covid-19) Anticorpos IgG. IgM. IgA (cada) - pesquisa e/ou dosagem,2022-04-27,Ambulatório,261.3
+61.486.650/0584-24,US - Articular (por articulação),2022-09-19,Ambulatório,983.42
+61.486.650/0584-24,RM - Coluna cervical ou dorsal ou lombar,2022-09-19,Ambulatório,983.42
+61.486.650/0584-24,RM - Mão (não inclui punho) ,2022-09-19,Ambulatório,1487.46
+61.486.650/0584-24,US - Articular (por articulação),2022-09-19,Ambulatório,786.74
+../-,Procedimento diagnóstico em peça anatômica ou cirúrgica simples ,2022-09-09,Ambulatório,51.79
+../-,Vitamina .D. 25 HIDROXI. pesquisa e/ou dosagem (Vitamina D3) ,2022-02-03,Ambulatório,41.68
+../-,Transaminase oxalacética (amino transferase aspartato) - pesquisa e/ou dosagem,2022-02-03,Ambulatório,6.72
+../-,Fósforo - pesquisa e/ou dosagem,2022-02-03,Ambulatório,6.72
+../-,IgM - pesquisa e/ou dosagem,2022-02-03,Ambulatório,24.0
+../-,T4 livre - pesquisa e/ou dosagem,2022-02-03,Ambulatório,27.82
+../-,Ferro sérico - pesquisa e/ou dosagem,2022-02-03,Ambulatório,8.64
+../-,Tireoestimulante. hormônio (TSH) - pesquisa e/ou dosagem,2022-02-03,Ambulatório,27.82
+../-,Fosfatase alcalina - pesquisa e/ou dosagem,2022-02-03,Ambulatório,8.64
+../-,Cálculos urinários - análise,2022-02-03,Ambulatório,6.72
+../-,Uréia - pesquisa e/ou dosagem,2022-02-03,Ambulatório,6.72
+../-,Vitamina B12 - pesquisa e/ou dosagem,2022-02-03,Ambulatório,40.8
+../-,Triglicerídeos - pesquisa e/ou dosagem,2022-02-03,Ambulatório,9.6
+../-,SARS-COV-2 (Coronavírus Covid-19) Anticorpos IgG. IgM. IgA (cada) - pesquisa e/ou dosagem,2022-02-03,Ambulatório,80.0
+../-,Zinco - pesquisa e/ou dosagem,2022-02-03,Ambulatório,33.6
+../-,Ácido fólico. pesquisa e/ou dosagem nos eritrócitos,2022-02-03,Ambulatório,28.8
+../-,Transaminase pirúvica - TGP ou ALT por unidade de sangue total - pesquisa e/ou dosagem ,2022-02-03,Ambulatório,6.72
+../-,Creatinina - pesquisa e/ou dosagem,2022-02-03,Ambulatório,6.72
+../-,Hemograma com contagem de plaquetas ou frações (eritrograma. leucograma. plaquetas),2022-02-03,Ambulatório,14.4
+../-,IgG - pesquisa e/ou dosagem,2022-02-03,Ambulatório,24.0
+../-,Glicose - pesquisa e/ou dosagem,2022-02-03,Ambulatório,6.72
+../-,Triiodotironina (T3) - pesquisa e/ou dosagem,2022-02-03,Ambulatório,31.2
+../-,Ferritina - pesquisa e/ou dosagem,2022-02-03,Ambulatório,40.9
+../-,IgA - pesquisa e/ou dosagem,2022-02-03,Ambulatório,24.0
+../-,IgE. total - pesquisa e/ou dosagem,2022-02-03,Ambulatório,33.6
+60.884.855/0033-31,PACOTE DIÁRIA GLOBAL,2022-08-07,Internação,8947.8
+10.257.164/0010-43,ASSITÊNCIA DE ENFERMAGEM,2022-10-01,Ambulatório,50.0
+10.257.164/0010-43,ASSITÊNCIA DE ENFERMAGEM,2022-09-01,Ambulatório,50.0
+10.257.164/0010-43,ASSITÊNCIA DE ENFERMAGEM,2022-02-01,Ambulatório,50.0
+60.884.855/0003-16,Outras Terapias,2022-12-12,Ambulatório,34.18
+10.257.164/0010-43,ASSITÊNCIA DE ENFERMAGEM,2022-06-01,Ambulatório,50.0
+10.257.164/0010-43,ASSITÊNCIA DE ENFERMAGEM,2022-09-01,Ambulatório,50.0
+60.884.855/0003-16,NORIPURUM FÓLICO - 20 MG/ML SOL INJ EV CX 5 AMP VD INC X 5 ML - NYCOMED PHARMA LTDA.,2022-12-05,Ambulatório,30.92
+10.257.164/0010-43,ASSITÊNCIA DE ENFERMAGEM,2022-09-01,Ambulatório,50.0
+60.884.855/0003-16,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-12-14,Ambulatório,183.25
+60.884.855/0003-16,Materiais simples,2022-12-12,Ambulatório,1.45
+60.884.855/0003-16,ISOFARMA-SOLUÇÃO DE CLORETO DE SODIO - 9 MG/ML SOL INJ IV CX 100 AMP PLAS INC X 10 ML - ISOFARMA INDUSTRIAL FARMACÊUTICA LTDA,2022-12-09,Ambulatório,7.96
+60.884.855/0003-16,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-12-07,Ambulatório,183.25
+57.482.903/0001-73,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-01-07,Internação,25.47
+57.482.903/0001-73,FENTANEST - 0.05 MG/ML SOL INJ CX 25 AMP VD INC X 5 ML (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-01-07,Internação,20.49
+57.482.903/0001-73,LUVA CIRURGICA ESTERIL 8.5 (PAR) 0084501 -  84501,2022-01-07,Internação,37.8
+57.482.903/0001-73,CLORETO DE SÓDIO BEKER - 9 MG/ML SOL INJ CX 100 BOLS PVC TRANS FLEX SIST FECH X 100 ML - BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA,2022-01-07,Internação,8.67
+57.482.903/0001-73,FIO MONOCRYL PLASTICA INCOLOR 3-0 70CM AG.2.4CM -  Y936H,2022-01-07,Internação,61.34
+57.482.903/0001-73,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-01-07,Internação,18.12
+57.482.903/0001-73,SONDA ASPIR TRAQUEAL 14 - 10049,2022-01-07,Internação,9.67
+57.482.903/0001-73,AGULHA HIPODERMICA 40X12 PRECISIONGLIDE 300017 -  300017,2022-01-07,Internação,3.15
+57.482.903/0001-73,BISTURI DESC.ESTERIL COM CABO PLASTICO/PROTETOR NR.10 AESCULAP BA210 -  BA210,2022-01-07,Internação,34.19
+60.884.855/0003-16,ANSENTRON - 8 MG SOL INJ CX AMP X 4 ML - BIOSINTÉTICA FARMACÊUTICA LTDA,2022-01-13,Internação,182.82
+60.884.855/0003-16,COMPRESSA GAZE ESTRELA 13FIOS 7.5CMX7.5CM C/FIO RX/RAIO GAMA ESTERIL  - 166514,2022-01-13,Internação,6.01
+60.884.855/0003-16,LUVA PLASTICA L.T.A. -  PCE2032,2022-01-13,Internação,28.6
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-01-13,Internação,8.44
+60.884.855/0003-16,AGULHA HIPODERMICA C/DISP. SEGURANCA 26G 13 MM(26G 1/2) NEEDLE PRO  - 4658301,2022-01-13,Internação,11.94
+57.482.903/0001-73,XYLESTESIN +EPINEFRINA - 10 MG/ML + 9.1 MCG/ML SOL INJ CX 10 EST FA VD INC X 20 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-01-13,Internação,18.82
+57.482.903/0001-73,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-01-13,Internação,2.23
+57.482.903/0001-73,CAMPO OPERATORIO DESC.PRE-LAV.ESTERIL RX 45X45CM RAIO GAMA COM 5UNID DPLA.EMB.CREP.206.005 -  206.005,2022-01-13,Internação,13.37
+21.371.777/0001-32,CAMPO OPERATORIO DESC.PRE-LAV.ESTERIL RX 45X45CM RAIO GAMA COM 5UNID DPLA.EMB.CREP.206.005 -  206.005,2022-01-16,Internação,29.72
+21.371.777/0001-32,Turbinectomia ou turbinoplastia - unilateral,2022-01-16,Internação,129.6
+21.371.777/0001-32,SONDA ASPIR TRAQUEAL 14 - 10049,2022-01-16,Internação,10.74
+21.371.777/0001-32,TAXA DE SERVIÇO DE ARMAZENAMENTO. MANIPULAÇÃO. ESTERELIZAÇÃO. DISPENSAÇÃO. CONTROLE E AQUISIÇÃO DE ÓRTESES. PRÓTESES e MATERIAIS ESPECIAIS,2022-01-16,Internação,532.02
+21.371.777/0001-32,DISPOSITIVO VEDACAO EQUIPO/SERINGA LUER/LUER LOCK COMBI-RED 409081 - 409081,2022-01-16,Internação,1.5
+21.371.777/0001-32,TAXA POR USO/SESSÃO DE SALA CIRÚRGICA. CIRURGIA GRANDE,2022-01-16,Internação,437.82
+21.371.777/0001-32,FENTANEST - 0.05 MG/ML SOL INJ CX 25 AMP VD INC X 5 ML (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-01-16,Internação,21.28
+60.884.855/0019-83,SOLUÇÃO GLICOFISIOLÓGICA - 50MG/ML + 9.0MG/ML SOL INJ IV BOLS PLAS PVC INC SIST FECH X 1000 ML - BAXTER HOSPITALAR LTDA,2022-01-06,Internação,1811.35
+60.884.855/0033-31,Excisão de pólipo cervical,2022-01-18,Internação,109.4
+29.435.005/0057-83,DIÁRIA DE  ENFERMARIA DE 3 LEITOS COM BANHEIRO PRIVATIVO,2022-03-09,Internação,1572.48
+33.756.768/0001-49,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-01-12,Internação,3.2
+33.756.768/0001-49,CONSULTA MEDICA ESPECIAL,2022-01-12,Internação,226.8
+33.756.768/0001-49,RX - Articulação escapuloumeral (ombro) ,2022-01-11,Internação,28.91
+33.756.768/0001-49,TC - Crânio ou sela túrcica ou órbitas ,2022-01-12,Internação,292.73
+33.756.768/0001-49,Sessão para assistência fisioterapêutica hospitalar para alterações inflamatórias e ou degenerativas do aparelho genito-urinário e reprodutor,2022-01-13,Internação,11.88
+33.756.768/0001-49,DIÁRIA DE  UTI ADULTO GERAL ,2022-01-12,Internação,472.65
+33.756.768/0001-49,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-01-13,Internação,67.53
+../-,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-01-20,Internação,15.78
+../-,TAXA DE SALA CIRÚRGICA. PORTE ANESTÉSICO 8,2022-01-20,Internação,69.77
+../-,TAXA DE MONITOR / MONITORIZAÇÃO DE DÉBITO CARDÍACO. POR USO/SESSÃO. NA UTI,2022-01-20,Internação,37.26
+29.435.005/0057-83,PACOTE - DIARIA ENFERMARIA,2022-01-16,Internação,1937.35
+29.435.005/0057-83,Cesariana,2022-01-18,Internação,262.93
+29.435.005/0057-83,PACOTE - DIARIA ENFERMARIA,2022-01-19,Internação,13561.45
+33.756.768/0001-49,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-01-28,Internação,67.53
+33.756.768/0001-49,SLOW - K - 600 MG DRG CT FR PLAS OPC X 20 - NOVARTIS BIOCIENCIAS S.A,2022-01-22,Internação,4.68
+33.756.768/0001-49,Proteína C reativa. qualitativa - pesquisa,2022-01-29,Internação,24.12
+33.756.768/0001-49,Fosfatase alcalina - pesquisa e/ou dosagem,2022-01-19,Internação,6.48
+33.756.768/0001-49,CONSULTA MEDICA ESPECIAL,2022-01-22,Internação,226.8
+33.756.768/0001-49,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-01-22,Internação,19.95
+33.756.768/0001-49,Visita hospitalar (paciente internado),2022-01-27,Internação,54.07
+33.756.768/0001-49,CEFTRIAXONA DISSÓDICA - 1 G PÓ P/ SOL INJ IV CT 100 FA VD TRANS X 10 ML (EMB HOSP)  - ANTIBIÓTICOS DO BRASIL LTDA,2022-01-20,Internação,96.1
+33.756.768/0001-49,RX - Tórax - 1 incidência ,2022-01-22,Internação,21.25
+33.756.768/0001-49,GLICOSE - SOL INJ 5% AMP 1000ML 5% - INDUSTRIA FARMACEUTICA AMORIM LTDA,2022-01-20,Internação,5.0
+33.756.768/0001-49,ALUGUEL / TAXA DE COLCHÃO CAIXA DE OVO. POR DIA,2022-01-19,Internação,55.92
+33.756.768/0001-49,Haptoglobina - pesquisa e/ou dosagem,2022-01-19,Internação,14.4
+33.756.768/0001-49,Doppler colorido venoso de membro inferior - unilateral ,2022-01-20,Internação,126.2
+33.756.768/0001-49,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-01-24,Internação,28.92
+33.756.768/0001-49,FLORATIL - 200 MG/G PÓ ORAL EST CART 6 SACHE X 1G - MERCK S/A,2022-01-21,Internação,8.11
+33.756.768/0001-49,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-01-27,Internação,1.7
+33.756.768/0001-49,Sessão para assistência fisioterapêutica hospitalar ao paciente com disfunção decorrente de alterações no sistema respiratório,2022-01-28,Internação,11.88
+33.756.768/0001-49,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-01-27,Internação,67.53
+33.756.768/0001-49,CATETER PARA RETIRADA DE CÁLCULOS TRITON HELICOIDAL 2.5FR 4 FIOS NITINOL TSB-2.5F-4W-N-H - TSB-2.5F-4W-N-H,2022-01-22,Internação,40.65
+33.756.768/0001-49,Transferrina - pesquisa e/ou dosagem,2022-01-19,Internação,14.4
+60.884.855/0003-16,ALUGUEL/TAXA DE BISTURI ELÉTRICO COM ALÇA LEEP. POR USO,2022-01-28,Internação,21.67
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-01-28,Internação,10.55
+60.884.855/0003-16,AGULHA HIPODERMICA C/DISP. SEGURANCA 26G 13 MM(26G 1/2) NEEDLE PRO  - 4658301,2022-01-28,Internação,23.88
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE PA INVASIVA. POR HORA. NA UTI,2022-01-28,Internação,7.58
+60.884.855/0003-16,Correção cirúrgica da assimetria mamária,2022-01-28,Internação,154.0
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-01-28,Internação,7.78
+60.884.855/0003-16,MASCARA FACIAL COMFORT FULL LARGE 1004951 -  1004951,2022-01-28,Internação,272.0
+60.884.855/0003-16,Materiais simples,2022-01-28,Internação,34.0
+60.884.855/0003-16,NEBACETIN - 5.0 MG/G + 250 UI/G POM CT BG AL X 15 G - NYCOMED PHARMA LTDA.,2022-01-28,Internação,20.65
+60.884.855/0003-16,SENSOR OXIMETRIA ADESIVO PED MAXPI NELLCOR PURITAN BENNETT - SENSOR OXIMETRIA ADESIVO PED MAXPI NELLCOR PURITAN BENNETT,2022-01-28,Internação,376.32
+29.435.005/0057-83,Visita hospitalar (paciente internado),2022-02-03,Internação,91.05
+60.884.855/0003-16,FENTANEST - 0.05 MG/ML SOL INJ CX 25 AMP VD INC X 5 ML (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-02-25,Internação,7.67
+60.884.855/0003-16,LANCETA CONTACT 1.8MM X 21G MEDIO FLUXO- 366593,2022-02-25,Internação,16.2
+60.884.855/0003-16,DULCOLAX - 5 MG DRG CT BL AL PLAS INC  X 20  - BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA.,2022-02-25,Internação,0.8
+60.884.855/0003-16,Colonoscopia com biópsia e/ou citologia,2022-02-25,Internação,308.0
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-02-25,Internação,10.0
+60.884.855/0019-83,Visita hospitalar (paciente internado),2022-02-14,Internação,89.04
+57.482.903/0001-73,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-03-28,Internação,12.21
+57.482.903/0001-73,CATETER PERIFERICO SEGURANCA-INSYTE AUTOGUARD 22G 1.00pol 381823 -  381823,2022-03-28,Internação,24.57
+57.482.903/0001-73,FENTANEST - 0.05 MG/ML SOL INJ CX 25 AMP VD INC X 5 ML (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-03-28,Internação,7.22
+57.482.903/0001-73,TAXA DE MONITOR / MONITORIZAÇÃO  CARDÍACO / ECG. POR HORA,2022-03-28,Internação,5.02
+57.482.903/0001-73,CETOPROFENO - 100 MG PÓ LIOF P/ SOL INJ CX 50 FA VD INC (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-03-28,Internação,20.68
+57.482.903/0001-73,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-03-28,Internação,6.19
+57.482.903/0001-73,TAXA DE SALA CIRÚRGICA. PORTE ANESTÉSICO 8,2022-03-28,Internação,533.15
+60.884.855/0003-16,LUVA PLASTICA L.T.A. -  PCE2032,2022-03-04,Internação,28.6
+60.884.855/0003-16,PLACA ELETROCIRURGICA AUTO ADESIVA UNIVERSAL REM 9160F - 9160F,2022-03-04,Internação,78.52
+60.884.855/0003-16,CLORIDRATO DE ONDANSETRONA - 2 MG/ML SOL INJ CT 50 AMP VD INC X 2 ML (EMB HOSP) - EUROFARMA LABORATÓRIOS S/A,2022-03-04,Internação,50.67
+60.884.855/0003-16,FIO MONOCRYL PLASTICA INCOLOR 4-0 45CM AG.1.9CM Y496G -  Y496G,2022-03-04,Internação,70.31
+60.884.855/0033-31,Apendicectomia por videolaparoscopia,2022-03-08,Internação,202.39
+60.884.855/0033-31,Endometriose peritoneal - tratamento cirúrgico via laparoscópica,2022-03-08,Internação,382.9
+60.884.855/0033-31,Ureterólise unilateral,2022-03-08,Internação,229.74
+60.884.855/0033-31,Ureterólise unilateral,2022-03-08,Internação,765.8
+29.435.005/0057-83,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de alto risco),2022-02-21,Internação,144.69
+60.884.855/0019-83,Aspiração manual intra-uterina (AMIU) pós-abortamento,2022-02-21,Internação,96.0
+60.884.855/0019-83,DIÁRIA COMPACTA DE ENFERMARIA DE 2 LEITOS SEM BANHEIRO PRIVATIVO,2022-02-21,Internação,446.25
+60.884.855/0003-16,CURATIVO TRANSPARENTE TEGADERM 5CMX5.7CM 1610 - 1610,2022-03-03,Internação,32.9
+60.884.855/0003-16,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-03-03,Internação,2.55
+60.884.855/0003-16,FIO MONONYLON NEUROCIRURGIA PRETO 5-0 45CM AG.1.3CM N5002T -  N5002T,2022-03-03,Internação,69.37
+60.884.855/0003-16,CATETER PERIFERICO SEGURANCA-INSYTE AUTOGUARD 22G 1.00pol 381823 -  381823,2022-03-03,Internação,27.3
+60.884.855/0003-16,PROVIVE - 10MG/ML EMU INJ CT 5 FA VD INC X 20 ML - CLARIS PRODUTOS FARMACÊUTICOS DO BRASIL LTDA,2022-03-03,Internação,118.76
+60.884.855/0003-16,CETROLAC - 5 MG/ML SOL OFT CT FR PLAS OPC GOT X 5 ML - UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A,2022-03-03,Internação,10.85
+60.884.855/0003-16,TAXA DE SERVIÇO DE ARMAZENAMENTO. MANIPULAÇÃO. ESTERELIZAÇÃO. DISPENSAÇÃO. CONTROLE E AQUISIÇÃO DE ÓRTESES. PRÓTESES e MATERIAIS ESPECIAIS,2022-03-10,Internação,2921.67
+60.884.855/0003-16,TAXA POR USO/SESSÃO DE SALA CIRÚRGICA. CIRURGIA GRANDE,2022-03-10,Internação,1133.34
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-03-10,Internação,16.86
+60.884.855/0003-16,ULTIVA -  1 MG PO LIOF INJ CT 5 FA VD INC - GLAXOSMITHKLINE BRASIL LTDA,2022-03-10,Internação,38.17
+60.884.855/0003-16,OXIGÊNIO. POR MINUTO,2022-03-10,Internação,41.58
+60.884.855/0003-16,DIPRIVAN 1% - 10 MG/ML EMU INJ EST SER VD INC X 50 M - ASTRAZENECA DO BRASIL LTDA,2022-03-10,Internação,44.42
+60.884.855/0003-16,FENTANIL - 50 MCG/ML SOL INJ CX 5 AMP VD INC X 5 ML - JANSSEN-CILAG FARMACÊUTICA LTDA,2022-03-10,Internação,7.43
+60.884.855/0003-16,COMPRESSA GAZE ESTRELA 13FIOS 7.5CMX7.5CM C/FIO RX/RAIO GAMA ESTERIL  - 166514,2022-03-10,Internação,22.52
+33.756.768/0001-49,CEFTAZIDIMA - 1 G PO P/ SOL INJ CT 50 FA VD INC - AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA,2022-03-04,Internação,164.92
+33.756.768/0001-49,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-03-07,Internação,14.4
+33.756.768/0001-49,Reticulócitos. contagem,2022-03-05,Internação,3.6
+33.756.768/0001-49,Magnésio - pesquisa e/ou dosagem,2022-03-02,Internação,5.76
+33.756.768/0001-49,Visita hospitalar (paciente internado),2022-03-03,Internação,54.07
+33.756.768/0001-49,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-03-05,Internação,39.9
+33.756.768/0001-49,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-03-06,Internação,39.9
+33.756.768/0001-49,Visita hospitalar (paciente internado),2022-03-06,Internação,54.07
+33.756.768/0001-49,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-03-08,Internação,21.69
+33.756.768/0001-49,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-03-07,Internação,21.69
+33.756.768/0001-49,DIPIRONA SÓDICA - 500 MG/ML SOL INJ CT 100 AMP VD AMB  X 2 ML(EMB HOSP) - LABORATÓRIO TEUTO BRASILEIRO S/A,2022-03-02,Internação,0.97
+33.756.768/0001-49,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-03-02,Internação,67.53
+33.756.768/0001-49,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-03-07,Internação,67.53
+33.756.768/0001-49,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-03-10,Internação,6.4
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-03-06,Internação,10.0
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-03-06,Internação,9.39
+60.884.855/0003-16,Miopatias ,2022-03-07,Internação,16.0
+60.884.855/0003-16,COMPRESSA GAZE 7.5CMX7.5CM 09FIOS 500UNID C22009 -  C22009,2022-04-22,Internação,3.18
+60.884.855/0003-16,ROPI - 7.5 MG/ML SOL INJ CX 5 EST X FA VD INC X 20 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-04-22,Internação,30.59
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE PA INVASIVA. POR HORA. NA UTI,2022-04-22,Internação,7.58
+60.884.855/0003-16,SERINGA SEM AG.20ML LUER-LOK PLASTIPAK 990687 -  990687,2022-04-22,Internação,7.47
+60.884.855/0003-16,ESMERON - 10 MG/ML SOL INJ CT 12 FA VD INC X 5 ML  - SCHERING-PLOUGH INDÚSTRIA FARMACÊUTICA LTDA,2022-04-22,Internação,93.6
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-04-22,Internação,5.04
+60.884.855/0003-16,DIÁRIA DE  SEMI-UTI ADULTO GERAL ,2022-04-22,Internação,1360.11
+60.884.855/0003-16,COLETOR SECRECAO VIA AEREA 1000ML-ESTERIL FA1000 -  FA1000,2022-04-22,Internação,124.0
+60.884.855/0003-16,EXTENSOR PARA VACUO 14F TUBO 4.00M 520101 -  520101,2022-04-22,Internação,80.5
+60.884.855/0003-16,CANULA GUEDELL PVC ESTERIL DESC.NR.04 11.0MM SIMS-PORTEX 100.320.040 -  100320040,2022-04-22,Internação,41.8
+60.884.855/0003-16,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-04-22,Internação,9.53
+60.884.855/0003-16,PLACA ELETROCIRURGICA AUTO ADESIVA UNIVERSAL REM 9160F - 9160F,2022-04-22,Internação,75.0
+60.884.855/0003-16,SERINGA DESCARTAVEL 5 ML LUER LOCK -  5 ML LUER LOCK,2022-04-22,Internação,4.16
+60.884.855/0003-16,MIDAZOLAM - 5 MG/ML SOL INJ CT 5 AMP VD INC X 10 ML - EUROFARMA LABORATÓRIOS S/A,2022-04-22,Internação,6.6
+60.884.855/0003-16,COMPRESSA CIRURGICA CAMPO OPERATORIO DESC.25X28CM ESTERIL ETO PRE-LAVADO DUPLA EMB.ENV COM 5UN C21225 -  C21225,2022-04-22,Internação,185.0
+60.884.855/0003-16,BISTURI DESC.ESTERIL COM CABO PLASTICO/PROTETOR NR.10 AESCULAP BA210 -  BA210,2022-04-22,Internação,78.2
+60.884.855/0003-16,SERINGA 150ML PARA BOMBA INJETORA CONTRASTE MEDRAD MARK V / V PLUS -  BI0538,2022-04-22,Internação,3.79
+60.884.855/0003-16,DIPIFARMA - 500 MG/ML SOL INJ CX 100 AMP VD AMB X 2 ML (EMB HOSP) - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA,2022-04-22,Internação,3.34
+60.884.855/0003-16,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-04-23,Internação,4.1
+60.884.855/0003-16,AGULHA PARA ASPIRACAO DE OOCITOS K-OSN-1730-B-60 - K-OSN-1730-B-60,2022-04-22,Internação,1.22
+19.803.199/0001-14,MASCARA FACIAL COMFORT FULL LARGE 1004951 -  1004951,2022-03-28,Internação,263.84
+19.803.199/0001-14,TAXA POR USO DE ANESTESIA GERAL,2022-03-28,Internação,56.9
+19.803.199/0001-14,Ureterorrenolitotripsia rígida unilateral a laser,2022-03-28,Internação,570.0
+19.803.199/0001-14,Ureterorrenolitotripsia rígida unilateral a laser,2022-03-28,Internação,501.6
+60.884.855/0022-89,DIÁRIA COMPACTA DE ENFERMARIA DE 2 LEITOS SEM BANHEIRO PRIVATIVO,2022-03-31,Internação,988.55
+60.884.855/0033-31,GRANULOKINE - 30 1SP 0.3MG / 0.5ML - PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.,2022-04-03,Internação,724.78
+60.884.855/0033-31,Visita hospitalar (paciente internado),2022-04-02,Internação,76.58
+60.884.855/0033-31,Visita hospitalar (paciente internado),2022-04-04,Internação,76.58
+60.884.855/0033-31,Bloqueio peridural ou subaracnóideo com corticóide,2022-04-06,Internação,191.45
+57.482.903/0001-73,CANETA ELETROCIRURGICA GOLDLINE MODELO 130307A - 130307A,2022-04-04,Internação,175.02
+57.482.903/0001-73,CARGA 0 7pol/18CM VERDE PARA ENDO STITCH SURGIDAC AUTO SUTURE 173026 -  173026,2022-04-04,Internação,1350.5
+57.482.903/0001-73,MASCARA DESCARTAVEL RMDESC C/ ELASTICO - C/ ELASTICO,2022-04-04,Internação,1.14
+57.482.903/0001-73,CLORETO DE SÓDIO BEKER - 9 MG/ML SOL INJ CX 100 BOLS PVC TRANS FLEX SIST FECH X 100 ML - BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA,2022-04-05,Internação,17.34
+57.482.903/0001-73,ALUGUEL/TAXA DE BISTURI ELÉTRICO COM ALÇA LEEP. POR USO,2022-04-04,Internação,82.46
+57.482.903/0001-73,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-04-04,Internação,6.69
+57.482.903/0001-73,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-04-04,Internação,20.62
+57.482.903/0001-73,FIO MONOCRYL PLASTICA INCOLOR 4-0 45CM AG.1.9CM Y496G -  Y496G,2022-04-04,Internação,57.53
+57.482.903/0001-73,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-04-04,Internação,10.4
+57.482.903/0001-73,GRAMPEADOR ENDO GIA UNIVERSAL 12MM -  030449,2022-04-04,Internação,2083.95
+57.482.903/0001-73,NOVALGINA - 500 MG/ML SOL INJ CT EST X 50 AMP VD AMB X 2 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-04-04,Internação,2.31
+57.482.903/0001-73,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-04-04,Internação,72.21
+57.482.903/0001-73,EXTENSAO PARA VIDEOLAPAROSCOPIA SEM LUER LOCK -  2050701,2022-04-04,Internação,183.82
+57.482.903/0001-73,LUVA CIRURGICA ESTERIL 8.0 - 411511,2022-04-04,Internação,2.23
+57.482.903/0001-73,ROCEFIN - 1 G IV PO ESTÉRIL CT FA VD INC + AMP DIL X 10 ML - PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.,2022-04-04,Internação,52.39
+57.482.903/0001-73,LUVA CIRURGICA ESTERIL 8.5 (PAR) 0084501 -  84501,2022-04-19,Internação,7.2
+57.482.903/0001-73,SERINGA SEM AG.05ML LUER SLIP PLASTIPAK 990317 -  990317,2022-04-19,Internação,2.12
+57.482.903/0001-73,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-04-19,Internação,3.69
+57.482.903/0001-73,MIRENA - 52 MG SIU CT BL X 1 + INSERTOR  - SCHERING DO BRASIL QUÍMICA E FARMACÊUTICA LTDA,2022-04-19,Internação,1035.48
+21.371.777/0001-32,ESMERON - 10 MG/ML SOL INJ CT 12 FA VD INC X 5 ML  - SCHERING-PLOUGH INDÚSTRIA FARMACÊUTICA LTDA,2022-04-14,Internação,80.55
+21.371.777/0001-32,ASPIRADOR CIRURGICO CRISTAL -  2040101,2022-04-14,Internação,56.44
+21.371.777/0001-32,CANETA ELETROCIRURGICA GOLDLINE MODELO 130307A - 130307A,2022-04-14,Internação,117.6
+21.371.777/0001-32,FIO VICRYL FECH.G.OB/GIN.VIOLETA 2-0 70CM AG.3.64CM J166H -  J166H,2022-04-14,Internação,107.56
+21.371.777/0001-32,LUVA CIRURGICA ESTERIL 8.0 - 411511,2022-04-14,Internação,3.69
+21.371.777/0001-32,ALUGUEL/TAXA DE BISTURI ELÉTRICO COM ALÇA LEEP. POR USO,2022-04-14,Internação,11.99
+21.371.777/0001-32,KEFAZOL - 1 G PO INJ CT 50 FA VD INC CAPAC. 10ML - ANTIBIÓTICOS DO BRASIL LTDA,2022-04-15,Internação,28.43
+21.371.777/0001-32,FIO MONOCRYL PLASTICA INCOLOR 4-0 70CM AG.1.9CM Y426H -  Y426H,2022-04-14,Internação,226.89
+21.371.777/0001-32,TYLEX 500 MG + 30 MG COM CT  BL AL PLAS OPC X 12 | 1,2022-04-15,Internação,3.64
+21.371.777/0001-32,FIO DE STEINMANN 1.5 MM -  1116980000015,2022-04-14,Internação,1020.4
+21.371.777/0001-32,FIO MONONYLON PLASTICA PRETO 3-0 45CM AG.2.4CM 1163T -  1163T,2022-04-14,Internação,149.82
+21.371.777/0001-32,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-04-15,Internação,186.45
+21.371.777/0001-32,BOMBA DE INFUSÃO. POR DIA,2022-04-14,Internação,51.42
+21.371.777/0001-32,FIO MONONYLON PLASTICA PRETO 5-0 45CM AG.1.6CM 1168T -  1168T,2022-04-14,Internação,56.83
+21.371.777/0001-32,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-04-14,Internação,3.64
+21.371.777/0001-32,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-04-14,Internação,1.86
+60.884.855/0019-83,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de baixo risco) ,2022-04-30,Internação,168.0
+19.803.199/0001-14,AR COMPRIMIDO COM OXIGÊNIO NO RESPIRADOR/VENTILADOR. POR HORA,2022-04-07,Internação,16.01
+19.803.199/0001-14,PACOTE - DIARIA APARTAMENTO,2022-04-07,Internação,2350.0
+19.803.199/0001-14,FILTRO BACTERIANO/VIRAL PERMUTADOR CALOR/UMIDADE 1541011 -  1541011,2022-04-07,Internação,242.5
+19.803.199/0001-14,LUVA CIRURGICA ESTERIL 8.5 - 411611,2022-04-07,Internação,3.58
+33.756.768/0001-49,PACOTE PARTO - NÃO ESPECIFICADO SE NORMAL OU CESAREA,2022-04-11,Internação,3760.33
+60.884.855/0012-07,PACOTE - DIARIA UTI NEONATAL,2022-04-14,Internação,4588.5
+57.482.903/0001-73,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-04-25,Internação,72.21
+57.482.903/0001-73,EQUIPO INTRAFIX PRIMELINE AIR 2 IL 401455P -  401455P,2022-04-25,Internação,31.44
+57.482.903/0001-73,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-04-25,Internação,3.69
+57.482.903/0001-73,SOLUÇÃO RINGER C/ LACTATO - SOL INJ IV CX 12 FR PLAS TRANS SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-04-25,Internação,10.13
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-04-30,Internação,5.04
+60.884.855/0003-16,AGULHA HIPODERMICA C/DISP. SEGURANCA 26G 13 MM(26G 1/2) NEEDLE PRO  - 4658301,2022-04-29,Internação,9.58
+60.884.855/0003-16,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-04-30,Internação,20.08
+60.884.855/0003-16,SERINGA DESCARTAVEL 20 ML LUER LOCK -  20 ML LUER LOCK,2022-04-30,Internação,4.1
+60.884.855/0003-16,LUVA PLASTICA TRANSPARENTE 100PCS - 100 UND,2022-04-29,Internação,62.4
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-04-30,Internação,20.16
+60.884.855/0003-16,SERINGA 150ML PARA BOMBA INJETORA CONTRASTE MEDRAD MARK V / V PLUS -  BI0538,2022-04-29,Internação,7.58
+60.884.855/0003-16,COMPRESSA GAZE 7.5CMX7.5CM 09FIOS 500UNID C22009 -  C22009,2022-04-29,Internação,7.5
+60.884.855/0003-16,ROPI - 7.5 MG/ML SOL INJ CX 5 EST X FA VD INC X 20 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-04-29,Internação,43.5
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-04-29,Internação,20.16
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-04-29,Internação,10.08
+60.884.855/0003-16,pacote de taxas administrativas/outras,2022-04-30,Internação,7.85
+60.884.855/0003-16,NOVALGINA - 1 G COM CT BL AL PLAS INC X 10 - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-04-30,Internação,2.79
+60.884.855/0003-16,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-04-29,Internação,11.53
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-04-30,Internação,10.0
+60.884.855/0003-16,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-04-29,Internação,4.1
+60.884.855/0003-16,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-04-30,Internação,11.53
+60.884.855/0003-16,COMPRESSA CIRURGICA CAMPO OPERATORIO DESC.25X28CM ESTERIL ETO PRE-LAVADO DUPLA EMB.ENV COM 5UN C21225 -  C21225,2022-04-29,Internação,74.0
+60.884.855/0003-16,NOVALGINA - 500 MG/ML SOL INJ CT EST X 50 AMP VD AMB X 2 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-04-30,Internação,1.12
+21.371.777/0001-32,ELETRODO P/MONITORIZACAO/ELETROCARDIOGRAMA ECG ADU.SERIE 200 MEDITRACE 31050522 - 31050522,2022-04-18,Internação,42.75
+21.371.777/0001-32,DALACIN - 20 MG/G CREM VAG CT BG PLAS OPC X 20 G + 3 APLIC  - 90131347,2022-04-19,Internação,10.74
+21.371.777/0001-32,CONECTORES - 70181608,2022-04-18,Internação,355.82
+21.371.777/0001-32,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-04-18,Internação,1.91
+21.371.777/0001-32,SERINGA 150ML PARA BOMBA INJETORA CONTRASTE MEDRAD MARK V / V PLUS -  BI0538,2022-04-18,Internação,11.37
+21.371.777/0001-32,Outras Terapias,2022-04-18,Internação,24.18
+21.371.777/0001-32,CAMPO OPERATORIO DESC.PRE-LAV.ESTERIL RX 45X45CM RAIO GAMA COM 5UNID DPLA.EMB.CREP.206.005 -  206.005,2022-04-18,Internação,111.0
+21.371.777/0001-32,CONECTOR CLAVE C/DISPOSITIVO ACESSO 011-CA-300 - 011-CA-300,2022-04-18,Internação,663.48
+21.371.777/0001-32,TAXA POR USO/SESSÃO DE SALA CIRÚRGICA. CIRURGIA GRANDE,2022-04-18,Internação,144.67
+21.371.777/0001-32,AGULHA HIPODERMICA 13X4.5 PRECISIONGLIDE 300110 -  300110,2022-04-19,Internação,11.94
+60.884.855/0022-89,DIÁRIA DE  UTI INFANTIL/PEDIÁTRICA ,2022-04-18,Internação,3311.64
+60.884.855/0022-89,DIÁRIA DE  UTI INFANTIL/PEDIÁTRICA ,2022-04-24,Internação,3311.64
+60.884.855/0022-89,DIÁRIA DE  UTI INFANTIL/PEDIÁTRICA ,2022-04-26,Internação,3311.64
+60.884.855/0019-83,TAXA DE SERVIÇO DE ARMAZENAMENTO. MANIPULAÇÃO. ESTERELIZAÇÃO. DISPENSAÇÃO. CONTROLE E AQUISIÇÃO DE ÓRTESES. PRÓTESES e MATERIAIS ESPECIAIS,2022-06-13,Internação,66.0
+60.884.855/0033-31,NAT/HBV - por componente hemoterápico - pesquisa e/ou dosagem,2022-04-22,Internação,430.64
+60.884.855/0033-31,Unidade de concentrado de hemácias,2022-04-22,Internação,57.44
+60.884.855/0033-31,Pesquisa de anticorpos séricos antieritrocitários. anti-A e/ou anti-B - gel teste,2022-04-22,Internação,15.79
+60.884.855/0033-31,S. Hepatite B anti-HBC por componente hemoterápico - pesquisa e/ou dosagem ,2022-04-23,Internação,14.36
+60.884.855/0033-31,NAT/HIV por componente hemoterápico - pesquisa e/ou dosagem ,2022-05-01,Internação,107.66
+60.884.855/0033-31,Visita hospitalar (paciente internado),2022-04-25,Internação,38.29
+60.884.855/0033-31,Visita hospitalar (paciente internado),2022-04-30,Internação,38.29
+60.884.855/0033-31,Pesquisa de anticorpos séricos antieritrocitários. anti-A e/ou anti-B - gel teste,2022-05-01,Internação,15.79
+60.884.855/0033-31,Unidade de concentrado de hemácias,2022-04-23,Internação,14.36
+57.482.903/0001-73,ROCEFIN - 1 G IV PO ESTÉRIL CT FA VD INC + AMP DIL X 10 ML - PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.,2022-04-24,Internação,58.09
+57.482.903/0001-73,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-04-25,Internação,512.6
+57.482.903/0001-73,CURATIVO TEGADERM ROLO 10CMX10MT 16004 -  16004,2022-04-24,Internação,9.5
+57.482.903/0001-73,ANSENTRON - 8 MG SOL INJ CX AMP X 4 ML - BIOSINTÉTICA FARMACÊUTICA LTDA,2022-04-24,Internação,95.34
+57.482.903/0001-73,MASCARA DESCARTAVEL RMDESC C/ ELASTICO - C/ ELASTICO,2022-04-24,Internação,0.04
+57.482.903/0001-73,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-04-24,Internação,4.46
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-04-24,Internação,50.0
+60.884.855/0003-16,Apendicectomia por videolaparoscopia,2022-04-25,Internação,888.0
+60.884.855/0033-31,Histeroscopia com ressectoscópio para miomectomia. polipectomia. metroplastia. endometrectomia e ressecção de sinéquias,2022-06-08,Internação,354.9
+60.884.855/0033-31,Apendicectomia por videolaparoscopia,2022-06-08,Internação,70.98
+60.884.855/0033-31,Retossigmoidectomia abdominal,2022-06-08,Internação,224.77
+60.884.855/0033-31,Endometriose peritoneal - tratamento cirúrgico via laparoscópica,2022-06-08,Internação,414.4
+../-,ELETRODO PARA MONITORIZACAO PED.2248 50UNID -  2248,2022-05-02,Internação,19.6
+../-,OXIGÊNIO. POR HORA,2022-05-02,Internação,106.16
+../-,Colecistectomia sem colangiografia por videolaparoscopia,2022-05-02,Internação,940.0
+../-,CLORIDRATO DE ONDANSETRONA - 8 MG COM REV CT BL AL PLAS OPC X 10    - EMS S/A,2022-05-02,Internação,58.77
+../-,TAXA DE SALA CIRÚRGICA. RECUPERAÇÃO PÓS ANESTÉSICA,2022-05-02,Internação,73.0
+60.884.855/0033-31,Procedimento diagnóstico peroperatório sem deslocamento do patologista,2022-05-02,Internação,57.48
+60.884.855/0033-31,PACOTE DIÁRIA GLOBAL,2022-05-01,Internação,3188.9
+60.884.855/0003-16,KETAMIN-S - 50 MG/ML SOL INJ CX 5 FA VD INC X 10 ML (REST. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-05-16,Internação,70.53
+60.884.855/0003-16,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-05-16,Internação,7.65
+60.884.855/0003-16,TORAGESIC - 20 MG/ML SOL OR CT FR VD CGT X 10 ML - EMS SIGMA PHARMA LTDA,2022-05-16,Internação,15.57
+60.884.855/0003-16,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-05-16,Internação,2.28
+60.884.855/0003-16,Tumor anorretal - ressecção anorretal. tratamento cirúrgico,2022-05-16,Internação,154.0
+60.884.855/0003-16,FILTRO BARREIRA BAC VIRUS UMIDIF MFLEX 150ML-1500ML - 6020S/50,2022-05-16,Internação,190.0
+60.884.855/0003-16,TAXA POR USO/SESSÃO DE SALA CIRÚRGICA. CIRURGIA GRANDE,2022-05-16,Internação,1133.34
+60.884.855/0003-16,CANETA ELETROCIRURGICA GOLDLINE MODELO 130307A - 130307A,2022-05-16,Internação,58.8
+60.884.855/0003-16,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-05-17,Internação,10.04
+60.884.855/0003-16,ESMERON - 10 MG/ML SOL INJ CT 12 FA VD INC X 5 ML  - SCHERING-PLOUGH INDÚSTRIA FARMACÊUTICA LTDA,2022-05-16,Internação,46.79
+60.884.855/0003-16,LUVA PLASTICA TRANSPARENTE 100PCS - 100 UND,2022-05-16,Internação,62.4
+60.884.855/0003-16,LUVA PLASTICA TRANSPARENTE 100PCS - 100 UND,2022-05-17,Internação,20.8
+60.884.855/0003-16,KEFOX - 1 G PO INJ CT 25 FA VD INC X 10 ML - ANTIBIÓTICOS DO BRASIL LTDA,2022-05-16,Internação,148.6
+60.884.855/0003-16,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-05-16,Internação,8.2
+60.884.855/0003-16,SERINGA DESCARTAVEL 20 ML LUER LOCK -  20 ML LUER LOCK,2022-05-17,Internação,4.1
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-05-16,Internação,8.43
+60.884.855/0033-31,Exploração cirúrgica de nervo (neurólise externa),2022-05-02,Internação,547.0
+60.884.855/0019-83,DIÁRIA COMPACTA DE ENFERMARIA DE 2 LEITOS SEM BANHEIRO PRIVATIVO,2022-05-03,Internação,892.5
+60.884.855/0019-83,Visita hospitalar (paciente internado),2022-05-04,Internação,89.04
+21.371.777/0001-32,LFM-POLIVINILPIRROLIDONA IODO - 100 MG/ML SOL TOP CX FR PLAS X 1 L (SOLUCAO ALCOOLICA) - 90149556,2022-06-14,Internação,0.1
+21.371.777/0001-32,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-06-15,Internação,22.57
+21.371.777/0001-32,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-06-15,Internação,22.57
+21.371.777/0001-32,CONECTOR MACHO LUER LOCK SF 920148 -  920148,2022-06-14,Internação,5.5
+21.371.777/0001-32,Incontinência urinária - .sling. vaginal ou abdominal,2022-06-14,Internação,190.0
+21.371.777/0001-32,ACESSORIO PARA TRANSFERENCIA SOLUCAO 1PTA PERFURANTE TRANSOFIX N -  409084,2022-06-14,Internação,11.74
+../-,PACOTE DE AMIGDALECTOMIA,2022-05-31,Internação,1268.77
+29.435.005/0057-83,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de alto risco),2022-05-06,Internação,144.69
+29.435.005/0057-83,PACOTE PARTO - NÃO ESPECIFICADO SE NORMAL OU CESAREA,2022-05-06,Internação,3336.37
+60.884.855/0019-83,DIÁRIA COMPACTA DE ENFERMARIA DE 2 LEITOS SEM BANHEIRO PRIVATIVO,2022-05-07,Internação,892.5
+57.482.903/0001-73,CETOPROFENO - 100 MG PÓ LIOF P/ SOL INJ CX 50 FA VD INC (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-05-07,Internação,22.93
+57.482.903/0001-73,CAMPO OPERATORIO DESC.PRE-LAV.ESTERIL RX 45X45CM RAIO GAMA COM 5UNID DPLA.EMB.CREP.206.005 -  206.005,2022-05-06,Internação,129.66
+57.482.903/0001-73,COBERTURA SUPERFICIE DABASE - 1040050001,2022-05-06,Internação,58.46
+57.482.903/0001-73,VIBRAMICINA - 100 MG DRG CT BL AL PLAS INC X 15 - LABORATORIOS PFIZER LTDA.,2022-05-07,Internação,5.72
+57.482.903/0001-73,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-05-07,Internação,167.82
+57.482.903/0001-73,MASCARA DESCARTAVEL RMDESC C/ ELASTICO - C/ ELASTICO,2022-05-06,Internação,0.04
+57.482.903/0001-73,COBERTURA SUPERFICIE DABASE - 1040050001,2022-05-06,Internação,58.46
+57.482.903/0001-73,SOLUÇÃO RINGER C/ LACTATO - SOL INJ IV CX 12 FR PLAS TRANS SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-05-06,Internação,20.26
+29.435.005/0057-83,PACOTE - DIARIA UTI NEONATAL,2022-05-06,Internação,4429.62
+29.435.005/0057-83,PACOTE - DIARIA UTI NEONATAL,2022-05-26,Internação,13288.86
+60.884.855/0019-83,SOLUÇÃO GLICOFISIOLÓGICA - 50MG/ML + 9.0MG/ML SOL INJ IV BOLS PLAS PVC INC SIST FECH X 1000 ML - BAXTER HOSPITALAR LTDA,2022-05-08,Internação,1811.35
+60.884.855/0003-16,CLORETO DE SÓDIO - 9 MG/ML SOL INJ IV CX 10 BOLS PP TRANS SIST FECH X 1000 ML  - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-05-12,Internação,7.74
+60.884.855/0003-16,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-05-13,Internação,0.76
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-05-11,Internação,12.09
+60.884.855/0003-16,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-05-11,Internação,10.04
+60.884.855/0003-16,SUCCINATO SÓDICO DE METILPREDNISOLONA - 125 MG PÓ  LIOF P/  SOL INJ CX 25 FA VD INC + DIL AMP VD INC X 2 ML (EMB HOSP) - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-05-11,Internação,16.96
+60.884.855/0003-16,Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI) ,2022-05-12,Internação,10.32
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-05-11,Internação,5.04
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-05-13,Internação,9.39
+33.756.768/0001-49,PACOTE PARTO - NÃO ESPECIFICADO SE NORMAL OU CESAREA,2022-05-16,Internação,4100.0
+29.435.005/0057-83,PACOTE PARTO - NÃO ESPECIFICADO SE NORMAL OU CESAREA,2022-05-19,Internação,3336.37
+60.884.855/0033-31,Reconstrução da falange com retalho homodigital,2022-06-09,Internação,248.43
+60.884.855/0033-31,Procedimento diagnóstico em painel de imunoistoquímica (duas a cinco reações) ,2022-06-09,Internação,539.24
+60.884.855/0033-31,Procedimento diagnóstico peroperatório sem deslocamento do patologista,2022-06-09,Internação,62.16
+60.884.855/0033-31,Correção cirúrgica da assimetria mamária,2022-06-09,Internação,443.63
+60.884.855/0033-31,Linfadenectomia axilar,2022-06-09,Internação,1537.9
+60.884.855/0033-31,Reconstrução da falange com retalho homodigital,2022-06-09,Internação,592.0
+60.884.855/0033-31,Histeroscopia com ressectoscópio para miomectomia. polipectomia. metroplastia. endometrectomia e ressecção de sinéquias,2022-05-25,Internação,656.4
+../-,Adenoidectomia,2022-06-02,Internação,138.0
+60.884.855/0003-16,ÍTEM NÃO INFORMADO/ INEXISTENTE,2022-05-27,Internação,7.47
+60.884.855/0003-16,LUVA PLASTICA L.T.A. -  PCE2032,2022-05-27,Internação,28.6
+60.884.855/0003-16,DIÁRIA DE  APARTAMENTO SIMPLES,2022-05-26,Internação,1468.43
+60.884.855/0003-16,Outras Terapias,2022-05-26,Internação,12.09
+60.884.855/0003-16,Drenagem de abscesso cervical profundo,2022-05-27,Internação,132.0
+60.884.855/0003-16,AGULHA PARA ASPIRACAO DE OOCITOS K-OSN-1730-B-60 - K-OSN-1730-B-60,2022-05-29,Internação,1.22
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-05-26,Internação,5.04
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-05-29,Internação,10.0
+60.884.855/0003-16,SERINGA 150ML PARA BOMBA INJETORA CONTRASTE MEDRAD MARK V / V PLUS -  BI0538,2022-05-26,Internação,3.79
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-05-26,Internação,15.12
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-05-26,Internação,4.22
+60.884.855/0003-16,DIPIFARMA - 500 MG/ML SOL INJ CX 100 AMP VD AMB X 2 ML (EMB HOSP) - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA,2022-05-30,Internação,1.85
+60.884.855/0003-16,AGULHA PARA ASPIRACAO DE OOCITOS K-OSN-1730-B-60 - K-OSN-1730-B-60,2022-05-28,Internação,1.22
+60.884.855/0003-16,DIPIFARMA - 500 MG/ML SOL INJ CX 100 AMP VD AMB X 2 ML (EMB HOSP) - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA,2022-05-27,Internação,1.85
+60.884.855/0003-16,DIPIFARMA - 500 MG/ML SOL INJ CX 100 AMP VD AMB X 2 ML (EMB HOSP) - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA,2022-05-28,Internação,1.85
+60.884.855/0003-16,Linfadenectomia cervical,2022-05-27,Internação,44.0
+60.884.855/0003-16,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-05-29,Internação,1.52
+60.884.855/0003-16,SERINGA DESCARTAVEL 20 ML LUER LOCK -  20 ML LUER LOCK,2022-05-29,Internação,8.2
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-05-29,Internação,5.04
+60.884.855/0003-16,Outras Terapias,2022-05-29,Internação,24.18
+60.884.855/0003-16,COMPRESSA GAZE 7.5CMX7.5CM 09FIOS 500UNID C22009 -  C22009,2022-05-29,Internação,2.15
+60.884.855/0003-16,XYLESTESIN - 100 MG/ML SOL TOP SPRAY CT FR VD INC NEB X 50 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-05-27,Internação,11.11
+60.884.855/0003-16,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-05-26,Internação,10.04
+60.884.855/0003-16,VIDISIC - 2 MG/G GEL OFT CT TB PLAS X 10G - BL INDÚSTRIA OTICA LTDA,2022-05-27,Internação,53.4
+60.884.855/0003-16,LUVA PLASTICA TRANSPARENTE 100PCS - 100 UND,2022-05-26,Internação,62.4
+60.884.855/0003-16,SERINGA DESCARTAVEL 5 ML LUER LOCK -  5 ML LUER LOCK,2022-05-27,Internação,8.76
+60.884.855/0003-16,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-05-28,Internação,0.66
+60.884.855/0003-16,Outras Terapias,2022-05-28,Internação,48.36
+60.884.855/0003-16,BOMBA DE INFUSÃO. POR DIA,2022-05-27,Internação,49.1
+60.884.855/0003-16,PINCA BIPOLAR E CABO DESCARTAVEL  - MA-3035DA,2022-05-27,Internação,740.0
+60.884.855/0003-16,CORTISONAL - 100 MG PO INJ CT 50 FA VD INC - UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A,2022-05-28,Internação,18.28
+60.884.855/0003-16,Outras Terapias,2022-05-26,Internação,24.18
+60.884.855/0003-16,Materiais simples,2022-05-27,Internação,315.0
+60.884.855/0003-16,EQUIPO PARA INFUSAO MULTIPLA 2VIAS POLIFIX 2 COM SPIN LOCK 409102 -  409102,2022-05-27,Internação,5.5
+60.884.855/0003-16,Outras Terapias,2022-05-26,Internação,12.09
+60.884.855/0003-16,Outras Terapias,2022-05-26,Internação,24.18
+60.884.855/0003-16,COMPRESSA GAZE 7.5CMX7.5CM 09FIOS 500UNID C22009 -  C22009,2022-05-27,Internação,45.0
+60.884.855/0003-16,PACOTE DE PARTO NORMAL,2022-05-28,Internação,57.98
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-05-27,Internação,8.43
+60.884.855/0003-16,ESMERON - 10 MG/ML SOL INJ CT 12 FA VD INC X 5 ML  - SCHERING-PLOUGH INDÚSTRIA FARMACÊUTICA LTDA,2022-05-27,Internação,89.36
+60.884.855/0003-16,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-05-26,Internação,9.22
+60.884.855/0003-16,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-05-27,Internação,5.5
+60.884.855/0003-16,ROCEFIN - 1 G IV PO ESTÉRIL CT FA VD INC + AMP DIL X 10 ML - PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.,2022-05-26,Internação,35.79
+../-,PACOTE DE AMIGDALECTOMIA,2022-05-30,Internação,1268.77
+60.884.855/0019-83,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de baixo risco) ,2022-05-27,Internação,336.0
+19.803.199/0001-14,SOLUÇÃO RINGER C/ LACTATO - SOL INJ IV CX 12 FR PLAS TRANS SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-06-06,Internação,8.29
+19.803.199/0001-14,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-06-06,Internação,1.85
+19.803.199/0001-14,AR COMPRIMIDO. POR HORA,2022-06-06,Internação,29.1
+57.482.903/0001-73,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-06-02,Internação,21.69
+57.482.903/0001-73,CLORETO DE SÓDIO BEKER - 9 MG/ML SOL INJ CX 100 BOLS PVC TRANS FLEX SIST FECH X 100 ML - BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA,2022-06-02,Internação,8.67
+57.482.903/0001-73,SERINGA DESCARTAVEL 3 ML LUER LOCK - 3 ML LUER LOCK,2022-06-02,Internação,0.13
+57.482.903/0001-73,SONDA MASCARA LARINGEA PVC EST.NR.1 3.5MM NEONATAL ATE 5KG D.I.5.3XD.E.7.8MM VOL.MAX.6ML 100.220.100 -  100220100,2022-06-02,Internação,339.07
+57.482.903/0001-73,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-06-02,Internação,1.98
+57.482.903/0001-73,CONECTOR CLAVE C/DISPOSITIVO ACESSO 011-CS-15 - 011-CS-15,2022-06-02,Internação,917.38
+57.482.903/0001-73,TRAMAL - 50 MG/ML SOL INJ CT 5 AMP VD INC X 1 ML  - LABORATORIOS PFIZER LTDA.,2022-06-02,Internação,7.66
+29.435.005/0057-83,PACOTE - DIARIA ENFERMARIA,2022-06-13,Internação,3874.7
+60.884.855/0003-16,BISTURI DESC.ESTERIL COM CABO PLASTICO/PROTETOR NR.10 AESCULAP BA210 -  BA210,2022-08-01,Internação,100.0
+60.884.855/0003-16,CANETA ELETROCIRURGICA GOLDLINE MODELO 130307A - 130307A,2022-08-01,Internação,255.0
+60.884.855/0003-16,CATETER PERIFERICO SEGURANCA-INSYTE AUTOGUARD 22G 1.00pol 381823 -  381823,2022-08-01,Internação,146.73
+60.884.855/0003-16,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-01,Internação,10.98
+60.884.855/0003-16,DIÁRIA DE  APARTAMENTO SIMPLES,2022-08-01,Internação,1468.43
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-08-02,Internação,3.33
+60.884.855/0003-16,FENTANIL - 50 MCG/ML SOL INJ CX 5 AMP VD INC X 5 ML - JANSSEN-CILAG FARMACÊUTICA LTDA,2022-08-01,Internação,8.24
+60.884.855/0003-16,SEVONESS - 100 PCC LIQ INAL 1 FR AL X 250 ML - BAXTER HOSPITALAR LTDA,2022-08-01,Internação,342.6
+60.884.855/0003-16,ELETRODO P/MONITORIZACAO/ELETROCARDIOGRAMA ECG ADU.SERIE 200 MEDITRACE 31050522 - 31050522,2022-08-01,Internação,52.35
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-08-01,Internação,5.04
+29.435.005/0057-83,OUTROS,2022-06-06,Internação,417.96
+29.435.005/0057-83,TRAQUEIA SILICONE ADU.DIAM.22X1.20MT (INTERNO LISO) 4972 -  4972,2022-08-03,Internação,68.97
+29.435.005/0057-83,FIO VICRYL PLUS GASTRO VIOLETA 3-0 70CM AG.3.64CM XYVCP322H -  XYVCP322H,2022-08-03,Internação,39.49
+29.435.005/0057-83,LIDOJET - 20 MG/ML SOL INJ CX 12 AMP VD INC X 20 ML  - UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A,2022-08-03,Internação,4.32
+29.435.005/0057-83,KETAMIN NP 50 MG/ML SOL INJ CX 25 AMP VD AMB X 2 ML | 1,2022-08-03,Internação,14.11
+29.435.005/0057-83,FIO PROLENE GASTRO AZUL 3-0 75CM AG.2.6CM 8832T -  8832T,2022-08-03,Internação,57.06
+29.435.005/0057-83,SERINGA DESCARTAVEL 5 ML LUER LOCK -  5 ML LUER LOCK,2022-08-03,Internação,8.76
+60.884.855/0033-31,Visita hospitalar (paciente internado),2022-06-12,Internação,80.57
+60.884.855/0033-31,Implante cirúrgico de cateter de longa permanência para NPP. QT ou para Hemodepuração,2022-06-09,Internação,106.56
+60.884.855/0033-31,ELOXATIN - 100 MG PO LIOF CT FR VD INC X 1000 MG - 90194918,2022-06-10,Internação,6714.76
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-06-12,Internação,9.39
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-06-14,Internação,10.98
+60.884.855/0003-16,Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI) ,2022-06-16,Internação,10.32
+60.884.855/0003-16,ROHYPNOL - 1 MG COM REV CT 2 BL AL PLAS INC X 10 - PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.,2022-06-15,Internação,0.8
+60.884.855/0003-16,STUGERON - 25 MG COM CT BL AL PLAS INC X 30 - JANSSEN-CILAG FARMACÊUTICA LTDA,2022-06-15,Internação,0.82
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-06-16,Internação,3.66
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-06-12,Internação,23.21
+60.884.855/0003-16,BEXTRA - 40 MG PO LIOF INJ CT 10 FA VD INC - LABORATORIOS PFIZER LTDA.,2022-06-13,Internação,84.55
+60.884.855/0003-16,Visita hospitalar (paciente internado),2022-06-12,Internação,155.4
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-13,Internação,24.18
+60.884.855/0003-16,ALUGUEL / TAXA DE COLCHÃO DE AR. POR DIA,2022-06-10,Internação,11.8
+60.884.855/0003-16,DIPIRONA SÓDICA - 500 MG/ML SOL INJ CT 100 AMP VD AMB  X 2 ML(EMB HOSP) - LABORATÓRIO TEUTO BRASILEIRO S/A,2022-06-15,Internação,2.24
+60.884.855/0003-16,DIÁRIA DE  APARTAMENTO SIMPLES,2022-06-15,Internação,1538.42
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-11,Internação,36.27
+60.884.855/0003-16,ROHYPNOL - 1 MG COM REV CT 2 BL AL PLAS INC X 10 - PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.,2022-06-11,Internação,0.8
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-13,Internação,10.0
+60.884.855/0003-16,CATETER PERIFERICO INTEGRAL-SAF-T-INTIMA 22G 0.75pol 383323 -  383323,2022-06-11,Internação,170.6
+60.884.855/0003-16,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-06-10,Internação,3.04
+60.884.855/0003-16,LEXAPRO - 10 MG COM REV CT BL AL PLAS INC X 28 - LUNDBECK BRASIL LTDA,2022-06-10,Internação,2.82
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-06-15,Internação,12.66
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-11,Internação,24.18
+60.884.855/0003-16,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-06-14,Internação,14.39
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-06-14,Internação,5.04
+60.884.855/0003-16,Miopatias ,2022-06-11,Internação,16.0
+60.884.855/0003-16,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-06-11,Internação,10.23
+60.884.855/0003-16,DIPIFARMA - 500 MG/ML SOL INJ CX 100 AMP VD AMB X 2 ML (EMB HOSP) - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA,2022-06-10,Internação,3.7
+60.884.855/0003-16,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-06-14,Internação,5.58
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-06-11,Internação,9.39
+60.884.855/0003-16,EQUIPO PARA INFUSAO MULTIPLA 2VIAS POLIFIX 2 COM SPIN LOCK 409102 -  409102,2022-06-10,Internação,56.9
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-06-11,Internação,10.08
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-13,Internação,5.0
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-11,Internação,12.09
+60.884.855/0003-16,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-06-13,Internação,3.04
+60.884.855/0003-16,LANCETA CONTACT 1.8MM X 21G MEDIO FLUXO- 366593,2022-06-10,Internação,1.8
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-06-11,Internação,2.11
+60.884.855/0003-16,SERINGA DESCARTAVEL 20 ML LUER LOCK -  20 ML LUER LOCK,2022-06-12,Internação,7.47
+60.884.855/0003-16,ECG convencional de até 12 derivações,2022-06-10,Internação,22.8
+60.884.855/0003-16,Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI) ,2022-06-13,Internação,10.32
+60.884.855/0003-16,DIPIFARMA - 500 MG/ML SOL INJ CX 100 AMP VD AMB X 2 ML (EMB HOSP) - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA,2022-06-12,Internação,3.7
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-14,Internação,5.0
+60.884.855/0003-16,DIPIRONA SÓDICA - 500 MG/ML SOL INJ CT 100 AMP VD AMB  X 2 ML(EMB HOSP) - LABORATÓRIO TEUTO BRASILEIRO S/A,2022-06-14,Internação,2.24
+60.884.855/0003-16,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-06-12,Internação,3.04
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-11,Internação,12.09
+60.884.855/0003-16,Proteína C reativa. qualitativa - pesquisa,2022-06-12,Internação,28.81
+60.884.855/0003-16,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-06-12,Internação,14.39
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-13,Internação,24.18
+60.884.855/0003-16,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-06-12,Internação,8.2
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-11,Internação,5.0
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-06-12,Internação,2.11
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-12,Internação,5.0
+60.884.855/0003-16,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-06-11,Internação,5.58
+60.884.855/0003-16,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-06-11,Internação,10.06
+60.884.855/0003-16,DIPIRONA SÓDICA - 500 MG/ML SOL INJ CT 100 AMP VD AMB  X 2 ML(EMB HOSP) - LABORATÓRIO TEUTO BRASILEIRO S/A,2022-06-14,Internação,2.24
+60.884.855/0003-16,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-06-15,Internação,8.37
+60.884.855/0033-31,Herniorrafia inguinal - unilateral por videolaparoscopia,2022-06-21,Internação,473.2
+../-,CONSULTA MEDICA ESPECIAL,2022-06-15,Internação,324.0
+60.884.855/0003-16,SERINGA DESCARTAVEL 5 ML LUER LOCK -  5 ML LUER LOCK,2022-07-01,Internação,11.68
+60.884.855/0003-16,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-07-02,Internação,1.52
+60.884.855/0003-16,CURATIVO COM ADES.TEC.HIPOALERG.10CMX13CM 60UNID POLYMEM 7405 -  7405,2022-07-01,Internação,757.98
+60.884.855/0003-16,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-07-01,Internação,21.37
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-07-02,Internação,10.08
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-07-01,Internação,9.39
+60.884.855/0003-16,COLETOR SECRECAO VIA AEREA 1000ML-ESTERIL FA1000 -  FA1000,2022-07-01,Internação,124.0
+60.884.855/0003-16,FAZOLON - 1000 MG PO INJ CX 20 FA VD INC - ARISTON INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS LTDA,2022-07-01,Internação,66.48
+60.884.855/0003-16,DIMORF - 0.2 MG/ML SOL INJ CX 50 AMP VD AMB X 1 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-07-02,Internação,9.04
+60.884.855/0003-16,AR COMPRIMIDO. POR MINUTO,2022-07-01,Internação,112.75
+60.884.855/0003-16,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-07-01,Internação,0.73
+60.884.855/0003-16,KETAMIN-S - 50 MG/ML SOL INJ CX 5 FA VD INC X 10 ML (REST. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-07-01,Internação,118.2
+60.884.855/0003-16,LAMINA BISTURI ESTERIL NR.15 100UNID FEATHER 4004.15 -  4004.15,2022-07-01,Internação,53.8
+60.884.855/0003-16,COMPRESSA GAZE 7.5CMX7.5CM 09FIOS 500UNID C22009 -  C22009,2022-07-02,Internação,10.75
+60.884.855/0012-07,SOLUÇÃO GLICOFISIOLÓGICA - 50MG/ML + 9.0MG/ML SOL INJ IV BOLS PLAS PVC INC SIST FECH X 1000 ML - BAXTER HOSPITALAR LTDA,2022-06-29,Internação,6700.48
+57.482.903/0001-73,Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de baixo risco) ,2022-06-22,Internação,574.0
+60.884.855/0033-31,SOLUÇÃO GLICOFISIOLÓGICA - 50MG/ML + 9.0MG/ML SOL INJ IV BOLS PLAS PVC INC SIST FECH X 1000 ML - BAXTER HOSPITALAR LTDA,2022-06-21,Internação,11343.87
+../-,FITA HIPOALERGENICA DURAPORE 100MMX4.5MT CAR.PLAST.1538 -  1538,2022-07-09,Internação,4.0
+../-,TAXA DE MONITOR / MONITORIZAÇÃO DE DÉBITO CARDÍACO. POR USO/SESSÃO. NA UTI,2022-07-09,Internação,37.26
+../-,FENTANEST - 0.05 MG/ML SOL INJ CX 25 AMP VD INC X 5 ML (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-07-09,Internação,5.99
+../-,Adeno-amigdalectomia,2022-07-09,Internação,460.0
+../-,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-07-09,Internação,19.78
+57.482.903/0001-73,DIÁRIA DE  APARTAMENTO SIMPLES,2022-06-24,Internação,440.43
+60.884.855/0033-31,Ureterólise unilateral,2022-07-16,Internação,827.4
+60.884.855/0033-31,PACOTE DIÁRIA GLOBAL,2022-07-16,Internação,3450.39
+60.884.855/0033-31,Endometriose peritoneal - tratamento cirúrgico via laparoscópica,2022-07-16,Internação,413.7
+60.884.855/0033-31,Herniorrafia umbilical,2022-07-16,Internação,325.05
+60.884.855/0033-31,Colpectomia,2022-07-16,Internação,218.67
+../-,COMPRESSA DE GAZE CAMPO OPERATORIO ESTERIL PRE-LAVADO 45X50- 14,2022-06-29,Internação,29.4
+../-,FIO MONONYLON CUTICULAR PRETO 3-0 45CM AG.3CM 1171T -  1171T,2022-06-29,Internação,52.26
+../-,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-06-29,Internação,24.72
+57.482.903/0001-73,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-06-29,Internação,34.79
+57.482.903/0001-73,DORMONID - 5 MG/ML SOL INJ CX C/ 5 AMP VD INC X 3 ML  - PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.,2022-07-01,Internação,34.17
+57.482.903/0001-73,CURATIVO PELIC.PARA CATET.FENESTRADO OPSITE IV 3000 5X6CM 100UNID S&N 66004011 -  66004011,2022-06-30,Internação,17.77
+57.482.903/0001-73,AGULHA DESCARTAVEL PROMAG 2.5 18X 25 -  765018250,2022-07-03,Internação,1.54
+57.482.903/0001-73,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-07-01,Internação,91.22
+57.482.903/0001-73,PULMICORT - 0.25 MG/ML SUS P/ NEBULIZACAO CT 5 FR PLAS X 2 ML - ASTRAZENECA DO BRASIL LTDA,2022-07-05,Internação,9.75
+57.482.903/0001-73,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-07-06,Internação,36.9
+57.482.903/0001-73,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-07-06,Internação,8.94
+57.482.903/0001-73,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-07-07,Internação,17.88
+57.482.903/0001-73,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-06-30,Internação,4.97
+57.482.903/0001-73,SERINGA 150ML PARA BOMBA INJETORA CONTRASTE MEDRAD MARK V / V PLUS -  BI0538,2022-07-01,Internação,64.79
+57.482.903/0001-73,GLICOSE BEKER - 50 MG/ML SOL INJ IV CX 14 BOLS PVC SIST FECH X 1000 ML - BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA,2022-06-30,Internação,3.3
+57.482.903/0001-73,SERINGA DESCARTAVEL 3 ML LUER LOCK - 3 ML LUER LOCK,2022-06-30,Internação,1.53
+57.482.903/0001-73,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-06-30,Internação,8.94
+57.482.903/0001-73,Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI) ,2022-07-05,Internação,36.3
+57.482.903/0001-73,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-06-30,Internação,29.82
+57.482.903/0001-73,CATETER PERIFERICO SEGURANCA-INSYTE AUTOGUARD 14G 1.75pol 381867 -  381867,2022-06-30,Internação,25.34
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-06-30,Internação,10.0
+57.482.903/0001-73,AGULHA DESCARTAVEL PROMAG 2.5 18X 25 -  765018250,2022-07-03,Internação,2.31
+57.482.903/0001-73,AGULHA HIPODERMICA 40X12 PRECISIONGLIDE 300017 -  300017,2022-07-01,Internação,0.95
+57.482.903/0001-73,AR COMPRIMIDO COM OXIGÊNIO NO RESPIRADOR/VENTILADOR. POR HORA,2022-07-01,Internação,28.5
+57.482.903/0001-73,Visita hospitalar (paciente internado),2022-07-06,Internação,45.76
+57.482.903/0001-73,AGULHA HIPODERMICA 40X12 PRECISIONGLIDE 300017 -  300017,2022-06-29,Internação,0.95
+57.482.903/0001-73,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-07-05,Internação,3.96
+57.482.903/0001-73,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-07-01,Internação,6.64
+57.482.903/0001-73,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-07-01,Internação,1.98
+57.482.903/0001-73,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-07-02,Internação,17.88
+57.482.903/0001-73,SERINGA DESCARTAVEL 3 ML LUER LOCK - 3 ML LUER LOCK,2022-07-01,Internação,1.53
+57.482.903/0001-73,PULMICORT - 0.25 MG/ML SUS P/ NEBULIZACAO CT 5 FR PLAS X 2 ML - ASTRAZENECA DO BRASIL LTDA,2022-07-03,Internação,9.75
+57.482.903/0001-73,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-06-30,Internação,17.88
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-01,Internação,10.0
+57.482.903/0001-73,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-06-29,Internação,91.22
+57.482.903/0001-73,SERINGA DESCARTAVEL 3 ML LUER LOCK - 3 ML LUER LOCK,2022-07-02,Internação,3.06
+57.482.903/0001-73,AGULHA HIPODERMICA 40X12 PRECISIONGLIDE 300017 -  300017,2022-06-30,Internação,1.92
+57.482.903/0001-73,ÍTEM NÃO INFORMADO/ INEXISTENTE,2022-07-06,Internação,67.2
+57.482.903/0001-73,SERINGA DESCARTAVEL 3 ML LUER LOCK - 3 ML LUER LOCK,2022-06-29,Internação,1.53
+57.482.903/0001-73,AGULHA HIPODERMICA 40X12 PRECISIONGLIDE 300017 -  300017,2022-07-02,Internação,0.95
+57.482.903/0001-73,TAXA DE SALA/SESSÃO DE INALAÇÃO/NEBULIZAÇÃO,2022-07-01,Internação,48.48
+../-,LUVA PROCEDIMENTO N/EST MD COM 100 UNIDADE - 0,2022-08-01,Internação,3.06
+../-,FENTANEST - 0.05 MG/ML SOL INJ CX 25 AMP VD INC X 5 ML (EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-01,Internação,6.81
+../-,SONDA ASPIR TRAQUEAL 14 - 10049,2022-08-01,Internação,9.28
+../-,NOVALGINA - 500 MG/ML SOL INJ CT EST X 50 AMP VD AMB X 2 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-08-01,Internação,3.85
+../-,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-01,Internação,29.66
+../-,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-08-01,Internação,16.48
+60.884.855/0019-83,Cesariana,2022-07-15,Internação,1060.0
+60.884.855/0019-83,Visita hospitalar (paciente internado),2022-07-10,Internação,103.2
+60.884.855/0019-83,PACOTE - DIARIA UTI NEONATAL,2022-07-06,Internação,4963.19
+57.482.903/0001-73,TROCARTE 5 MM -  C0522,2022-07-06,Internação,184.9
+57.482.903/0001-73,CLORETO DE SÓDIO BEKER - 9 MG/ML SOL INJ CX 100 BOLS PVC TRANS FLEX SIST FECH X 100 ML - BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA,2022-07-07,Internação,9.62
+57.482.903/0001-73,Aparelho digestivo e metabolismo,2022-07-08,Internação,26.1
+57.482.903/0001-73,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-07-12,Internação,1.92
+57.482.903/0001-73,TAXA DE INSTALAÇÃO DE SORO EV,2022-07-07,Internação,3.71
+57.482.903/0001-73,CURATIVO TEGADERM ROLO 10CMX10MT 16004 -  16004,2022-07-11,Internação,5.87
+57.482.903/0001-73,Proteína C reativa. qualitativa - pesquisa,2022-07-06,Internação,25.33
+57.482.903/0001-73,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-07-05,Internação,0.99
+57.482.903/0001-73,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-07-11,Internação,111.88
+57.482.903/0001-73,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-07-10,Internação,91.22
+57.482.903/0001-73,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-07-05,Internação,5.76
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-06,Internação,30.76
+57.482.903/0001-73,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-07-13,Internação,55.94
+57.482.903/0001-73,SERINGA 150ML PARA BOMBA INJETORA CONTRASTE MEDRAD MARK V / V PLUS -  BI0538,2022-07-12,Internação,10.23
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-09,Internação,3106.76
+57.482.903/0001-73,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-07-11,Internação,3.96
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-07,Internação,30.76
+57.482.903/0001-73,CATETER PERIFERICO SEGURANCA-INSYTE AUTOGUARD 20G 1.16pol 381834 -  381834,2022-07-11,Internação,14.74
+57.482.903/0001-73,Proteína C reativa. qualitativa - pesquisa,2022-07-09,Internação,25.33
+57.482.903/0001-73,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-07-13,Internação,91.22
+57.482.903/0001-73,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-07-09,Internação,0.96
+57.482.903/0001-73,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-07-08,Internação,0.96
+57.482.903/0001-73,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-07-05,Internação,9.96
+57.482.903/0001-73,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-07-05,Internação,91.22
+57.482.903/0001-73,ÍTEM NÃO INFORMADO/ INEXISTENTE,2022-07-05,Internação,6.72
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-11,Internação,46.14
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-10,Internação,123.04
+57.482.903/0001-73,DISPOSITIVO VEDACAO EQUIPO/SERINGA LUER/LUER LOCK COMBI-RED 409081 - 409081,2022-07-09,Internação,2.7
+57.482.903/0001-73,Visita hospitalar (paciente internado),2022-07-13,Internação,45.76
+57.482.903/0001-73,EQUIPO P/TRANSFERENCIA SOLUCAO AMINOMIX 401511 - 401511,2022-07-12,Internação,190.94
+57.482.903/0001-73,DISPOSITIVO VEDACAO EQUIPO/SERINGA LUER/LUER LOCK COMBI-RED 409081 - 409081,2022-07-07,Internação,1.35
+57.482.903/0001-73,CLORETO DE SÓDIO BEKER - 9 MG/ML SOL INJ CX 100 BOLS PVC TRANS FLEX SIST FECH X 100 ML - BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA,2022-07-10,Internação,9.62
+57.482.903/0001-73,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-07-11,Internação,91.22
+57.482.903/0001-73,AGULHA HIPODERMICA 40X12 PRECISIONGLIDE 300017 -  300017,2022-07-07,Internação,0.95
+57.482.903/0001-73,SOLUÇÃO DE CLORETO DE SODIO B.BRAUN - 9 MG/ML SOL INJ IV CX 20 FA PLAS INC SIST FECH X 100 ML - LABORATÓRIOS B. BRAUN S/A,2022-07-09,Internação,3.96
+57.482.903/0001-73,ILARIS - 150 MG PO LIOF INJ CT 01 FA VD INC - NOVARTIS BIOCIENCIAS S.A,2022-07-08,Internação,4.37
+57.482.903/0001-73,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-07-05,Internação,0.96
+57.482.903/0001-73,AGULHA DESCARTAVEL PROMAG 2.5 18X 25 -  765018250,2022-07-05,Internação,2.31
+57.482.903/0001-73,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-07-12,Internação,91.22
+57.482.903/0001-73,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-05,Internação,61.52
+57.482.903/0001-73,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-07-07,Internação,1.92
+57.482.903/0001-73,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-07-08,Internação,55.94
+29.435.005/0057-83,PACOTE PARTO - NÃO ESPECIFICADO SE NORMAL OU CESAREA,2022-07-05,Internação,3336.37
+29.435.005/0057-83,Gastroplastia para obesidade mórbida - qualquer técnica,2022-08-01,Internação,86.0
+29.435.005/0057-83,AGULHA HIPODERMICA 40X12 PRECISIONGLIDE 300017 -  300017,2022-08-01,Internação,1.91
+60.884.855/0003-16,MASCARA FACIAL PERFORMATRAK GRD.COM HEADGEAR 1012635 -  1012635,2022-07-27,Internação,36.0
+60.884.855/0003-16,LUVA PLASTICA TRANSPARENTE 100PCS - 100 UND,2022-07-27,Internação,16.5
+60.884.855/0003-16,TAXA DE REFEIÇÃO DE ACOMPANHANTE (ALMOÇO OU JANTAR),2022-07-27,Internação,18.86
+11.006.293/0001-30,Materiais simples,2022-07-26,Internação,123.72
+11.006.293/0001-30,NORMASTIG - 0.5 MG/ML SOL INJ CT 50 AMP VD INC X 1 ML (EMB. HOSP.) - BIOLAB SANUS FARMACÊUTICA LTDA,2022-07-26,Internação,5.24
+11.006.293/0001-30,SONDA ASPIR TRAQUEAL 6 CPL MEDICAL - 0,2022-07-26,Internação,3.6
+11.006.293/0001-30,BIOBAG - COLETOR DE SECREÇÕES,2022-07-26,Internação,171.22
+11.006.293/0001-30,SONDA FOLEY 100% SILICONE 2VIAS 3ML 8FR PED.(CATETER) - 1001-08,2022-07-26,Internação,70.5
+11.006.293/0001-30,EFEDRIN - 50 MG/ML SOL INJ CX 100 AMP VD AMB X 1 ML ( EMB HOSP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-07-26,Internação,6.55
+11.006.293/0001-30,SEVONESS - 100 PCC LIQ INAL 1 FR AL X 250 ML - BAXTER HOSPITALAR LTDA,2022-07-26,Internação,297.3
+11.006.293/0001-30,CANULA VENOSA ARAMADA UN.EST. PT METAL A.R. 20FR -  140030,2022-07-26,Internação,9.75
+33.756.768/0001-49,Maturação cervical para indução de abortamento ou de trabalho de parto,2022-07-14,Internação,305.8
+60.884.855/0033-31,Colecistectomia com colangiografia por videolaparoscopia,2022-08-08,Internação,945.6
+60.884.855/0033-31,Procedimento diagnóstico peroperatório sem deslocamento do patologista,2022-08-08,Internação,62.16
+60.884.855/0033-31,Colecistectomia com colangiografia por videolaparoscopia,2022-08-08,Internação,283.68
+../-,SOLUCAO DE RINGER COM LACTATO - SOL INJ IV CX 20 BOLS PVC SIST FECH X 500 ML  - JP INDUSTRIA FARMACEUTICA S/A,2022-08-01,Internação,7.51
+../-,CURATIVO COM ADES.TEC.HIPOALERG.10CMX13CM 60UNID POLYMEM 7405 -  7405,2022-08-01,Internação,23.66
+../-,AGULHA HIPODERMICA 30X8 PRECISIONGLIDE 300078 -  300078,2022-08-01,Internação,3.18
+../-,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-01,Internação,13.44
+../-,EFRINALIN - 1 MG/ML SOL INJ CX 100 AMP VD AMB X 1 ML - ARISTON INDUSTRIAS QUIMICAS E FARMACEUTICAS LTDA,2022-08-01,Internação,2.94
+../-,AR COMPRIMIDO COM OXIGÊNIO NO RESPIRADOR/VENTILADOR. POR HORA,2022-08-01,Internação,31.3
+../-,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-08-01,Internação,2.42
+21.371.777/0001-32,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-07-27,Internação,21.67
+21.371.777/0001-32,CIRCUITO RESPIRONICS582073 - 582073,2022-07-27,Internação,660.0
+21.371.777/0001-32,CAMPO OPERATORIO DESC.PRE-LAV.ESTERIL RX 45X45CM RAIO GAMA COM 5UNID DPLA.EMB.CREP.206.005 -  206.005,2022-07-27,Internação,43.62
+21.371.777/0001-32,ELETRODO DE RETORNO DESCARTAVEL VALLEYLAB INFANT -  E751025,2022-07-27,Internação,127.4
+21.371.777/0001-32,Sinusectomia maxilar - via endonasal,2022-07-27,Internação,125.4
+21.371.777/0001-32,Turbinectomia ou turbinoplastia - unilateral,2022-07-27,Internação,133.0
+21.371.777/0001-32,LUVA CIRURGICA ESTERIL 8.0 - 411511,2022-07-27,Internação,2.75
+21.371.777/0001-32,AVENTAL CIRURGICO SMS AZUL 1.20 X 1.50 48GR -  ACSMSG,2022-07-27,Internação,7.0
+21.371.777/0001-32,ALUGUEL/TAXA DE APARELHO / EQUIPAMENTO PARA LAPAROSCOPIA PARA CIRURGIA. POR USO,2022-07-27,Internação,724.07
+60.884.855/0003-16,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-08-05,Internação,78.04
+60.884.855/0003-16,MASCARA FACIAL PERFORMATRAK GRD.COM HEADGEAR 1012635 -  1012635,2022-07-29,Internação,36.0
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-08-02,Internação,3.33
+60.884.855/0003-16,SUCCINATO SÓDICO DE METILPREDNISOLONA - 500 MG PÓ  LIOF P/  SOL INJ CX 25 FA VD INC + DIL AMP VD INC X 8 ML (EMB HOSP) - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-07-28,Internação,96.32
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-08-04,Internação,17.09
+60.884.855/0003-16,CURATIVO TEGADERM -  1626W,2022-08-02,Internação,24.89
+60.884.855/0003-16,IVERNEO - 6 MG COM CT STR AL X 2 - HYPERMARCAS S.A.,2022-07-27,Internação,20.88
+60.884.855/0003-16,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-07-26,Internação,10.59
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-07-26,Internação,10.08
+60.884.855/0003-16,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-08-01,Internação,78.04
+60.884.855/0003-16,Visita hospitalar (paciente internado),2022-08-04,Internação,61.6
+60.884.855/0003-16,CLEXANE - 40 MG SOL INJ CT 10 SER PRE-ENCHIDAS VD INC X 0.4 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-08-02,Internação,78.04
+60.884.855/0003-16,TAXA DE MONITOR / MONITORIZAÇÃO DE OXÍMETRO. POR HORA,2022-08-02,Internação,9.0
+60.884.855/0003-16,Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI) ,2022-08-03,Internação,10.32
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-07-29,Internação,5.04
+60.884.855/0003-16,CURATIVO ABSORV.N/ADER.MELOLIN 20X10CM 100UNID 66974939 S&N -  66974939,2022-08-03,Internação,38.47
+60.884.855/0003-16,MALHA TUBULAR 04CMX15MT  - 909,2022-08-01,Internação,38.67
+60.884.855/0003-16,Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI) ,2022-08-05,Internação,10.32
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-08-03,Internação,85.45
+60.884.855/0003-16,Miopatias ,2022-08-06,Internação,16.0
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-07-26,Internação,5.04
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-07-28,Internação,68.36
+60.884.855/0003-16,BOMBA DE INFUSÃO. POR DIA,2022-08-03,Internação,49.1
+60.884.855/0003-16,MASCARA FACIAL PERFORMATRAK GRD.COM HEADGEAR 1012635 -  1012635,2022-07-27,Internação,36.0
+60.884.855/0003-16,PVP-IODO - 0.1 MG/ML SOL. TOP. ALCOÓLCX12FRX1000 - 90122070,2022-08-03,Internação,7.0
+60.884.855/0003-16,MASCARA FACIAL PERFORMATRAK GRD.COM HEADGEAR 1012635 -  1012635,2022-08-05,Internação,36.0
+60.884.855/0003-16,Proteína C reativa. qualitativa - pesquisa,2022-07-31,Internação,28.81
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-07-31,Internação,5.04
+60.884.855/0003-16,Visita hospitalar (paciente internado),2022-07-30,Internação,61.6
+60.884.855/0003-16,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-07-31,Internação,10.59
+60.884.855/0003-16,BRKCC02 COLECISTECTOMY KIT 02 -  BRKCC02,2022-07-31,Internação,80.1
+60.884.855/0003-16,NOVALGINA - 500 MG/ML SOL INJ CT EST X 50 AMP VD AMB X 2 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-07-28,Internação,3.91
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-07-27,Internação,5.04
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-08-04,Internação,5.04
+60.884.855/0003-16,NOVALGINA - 500 MG/ML SOL INJ CT EST X 50 AMP VD AMB X 2 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-07-27,Internação,3.91
+60.884.855/0003-16,Visita hospitalar (paciente internado),2022-08-01,Internação,123.2
+60.884.855/0003-16,SERINGA DESCARTAVEL 20 ML LUER LOCK -  20 ML LUER LOCK,2022-07-26,Internação,11.57
+60.884.855/0003-16,Visita hospitalar (paciente internado),2022-08-02,Internação,61.6
+60.884.855/0003-16,Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI) ,2022-08-03,Internação,10.32
+60.884.855/0003-16,Visita hospitalar (paciente internado),2022-07-28,Internação,61.6
+60.884.855/0012-07,TAXA DE SERVIÇO DE ARMAZENAMENTO. MANIPULAÇÃO. ESTERELIZAÇÃO. DISPENSAÇÃO. CONTROLE E AQUISIÇÃO DE ÓRTESES. PRÓTESES e MATERIAIS ESPECIAIS,2022-08-01,Internação,1379.94
+60.884.855/0012-07,PACOTE DIÁRIA GLOBAL,2022-08-03,Internação,2262.43
+21.371.777/0001-32,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-16,Internação,20.87
+21.371.777/0001-32,NOVALGINA - 500 MG/ML SOL INJ CT EST X 50 AMP VD AMB X 2 ML - SANOFI-AVENTIS FARMACÊUTICA LTDA,2022-08-16,Internação,16.08
+21.371.777/0001-32,ELETRODO P/MONITORIZACAO/ELETROCARDIOGRAMA ECG ADU.SERIE 200 MEDITRACE 31050522 - 31050522,2022-08-16,Internação,55.2
+21.371.777/0001-32,LFM-POLIVINILPIRROLIDONA IODO - 100 MG/ML SOL TOP CX FR PLAS X 1 L (SOLUCAO DEGERMANTE) - 90149572,2022-08-16,Internação,0.13
+21.371.777/0001-32,TAXA DE MONITOR / MONITORIZAÇÃO DE PA INVASIVA. POR USO/SESSÃO. FORA DA UTI E DO CENTRO CIRÚRGICO,2022-08-16,Internação,26.38
+21.371.777/0001-32,NEOCAINA PESADA - 0.5% PESADA-40ETJ. 4ML(SP) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-16,Internação,15.48
+21.371.777/0001-32,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-08-16,Internação,183.25
+60.884.855/0019-83,Parto (via vaginal),2022-07-30,Internação,1515.97
+19.803.199/0001-14,LUVA CIRURGICA ESTERIL 7.0 - 411311,2022-08-02,Internação,2.67
+19.803.199/0001-14,MALHA TUBULAR 25CMX25MT  - 825,2022-08-01,Internação,158.14
+19.803.199/0001-14,CAMPO OPERATORIO DESC.PRE-LAV.ESTERIL RX 45X45CM RAIO GAMA COM 5UNID DPLA.EMB.CREP.206.005 -  206.005,2022-08-02,Internação,84.6
+19.803.199/0001-14,DIMORF - 0.2 MG/ML SOL INJ CX 50 AMP VD AMB X 1 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-01,Internação,7.92
+19.803.199/0001-14,LFM-POLIVINILPIRROLIDONA IODO - 100 MG/ML SOL TOP CX FR PLAS X 1 L (SOLUCAO ALCOOLICA) - 90149556,2022-08-02,Internação,0.2
+19.803.199/0001-14,SERINGA DESCARTAVEL 5 ML LUER LOCK -  5 ML LUER LOCK,2022-08-01,Internação,2.83
+19.803.199/0001-14,TAXA DE MONITOR / MONITORIZAÇÃO DE PA INVASIVA. POR USO/SESSÃO. FORA DA UTI E DO CENTRO CIRÚRGICO,2022-08-01,Internação,28.76
+19.803.199/0001-14,ELETRODO DE RETORNO DESCARTAVEL VALLEYLAB INFANT -  E751025,2022-08-02,Internação,135.8
+19.803.199/0001-14,ATADURA 08CMX3.0MT 12UNID AMERICA 198.621 -  198621,2022-08-01,Internação,25.17
+29.435.005/0057-83,FIXADOR P/CANULA TRAQUEOSTOMIA ADU. - TRAQ ADULTO,2022-09-06,Internação,51.1
+29.435.005/0057-83,AGULHA HIPODERMICA 13X3 PRECISIONGLIDE 990193 -  990193,2022-09-06,Internação,3.82
+29.435.005/0057-83,ATROFARMA - 0.25 MG/ML SOL INJ CX 100 AMP VD INC X 1 ML - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA,2022-09-06,Internação,3.56
+29.435.005/0057-83,CETOPROFENO - 25 MG/G GEL CT BG AL X 30 G - EMS S/A,2022-09-06,Internação,10.47
+29.435.005/0057-83,SERINGA INSULINA PLASTIPAK 100U 13X0.38 990147 -  990147,2022-09-06,Internação,1.63
+29.435.005/0057-83,CANETA PARA ELETRO-BISTURI -  BMSD100,2022-09-06,Internação,259.7
+29.435.005/0057-83,COLETOR URINA SIST.FECH.NEONATAL 04FR SILMAG 499 -  499,2022-09-06,Internação,130.0
+29.435.005/0057-83,LUVA CIRURGICA ESTERIL 8.0 - 411511,2022-09-06,Internação,5.5
+../-,GLICOSE A 5% + CLORETO DE SÓDIO A 0.9% - 50 MG/ML + 9 MG/ML SOL INJ IV CX 20 AMP PLAS SIST FECH X 500 ML - LABORATÓRIOS B. BRAUN S/A,2022-09-01,Internação,7.53
+../-,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-09-01,Internação,2.42
+../-,DIMORF - 0.2 MG/ML SOL INJ CX 50 AMP VD AMB X 1 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-31,Internação,7.63
+../-,FLAGASS - 125 MG CAP GEL MOLE CT BL AL PLAS INC X 10 - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-09-01,Internação,1.43
+../-,BEXTRA - 40 MG PO LIOF INJ CT 10 FA VD INC - LABORATORIOS PFIZER LTDA.,2022-08-31,Internação,64.05
+11.006.293/0001-30,SERINGA DESCARTAVEL 3 ML LUER LOCK - 3 ML LUER LOCK,2022-08-31,Internação,2.21
+11.006.293/0001-30,CATÉTER PARA OXIGÊNIO. POR HORA,2022-08-31,Internação,21.17
+11.006.293/0001-30,SERINGA SEM AG.20ML LUER SLIP PLASTIPAK 990173 -  990173,2022-08-31,Internação,13.59
+29.435.005/0057-83,CAMPO CIRURGICO STERI DRAPE 2 60X60 -  7033000,2022-08-15,Internação,92.08
+29.435.005/0057-83,LUVA CIRURGICA ESTERIL 8.0 - 411511,2022-08-15,Internação,5.5
+29.435.005/0057-83,CAMPO CIRURGICO PARA MESA IMPERMEAVEL 1.5 X 2.2 -  11030009,2022-08-15,Internação,49.0
+60.884.855/0033-31,Visita hospitalar (paciente internado),2022-08-16,Internação,80.57
+60.884.855/0033-31,Implante de cateter peritoneal,2022-08-17,Internação,206.85
+60.884.855/0033-31,Ecodopplercardiograma transtorácico,2022-08-08,Internação,196.84
+60.884.855/0033-31,Visita hospitalar (paciente internado),2022-08-17,Internação,80.57
+29.435.005/0057-83,Cesariana,2022-08-08,Internação,262.93
+19.803.199/0001-14,EQUIPO INTRAFIX SAFESET AIR 401460S -  401460S,2022-08-10,Internação,355.52
+19.803.199/0001-14,ALUGUEL/TAXA DE ASPIRADOR ELÉTRICO. POR USO,2022-08-10,Internação,69.03
+19.803.199/0001-14,TAXA DE MONITOR / MONITORIZAÇÃO  CARDÍACO / ECG. POR USO/SESSÃO,2022-08-10,Internação,46.03
+19.803.199/0001-14,ALUGUEL /  TAXA DE INTENSIFICADOR DE IMAGEM. POR USO,2022-08-10,Internação,177.34
+19.803.199/0001-14,Colocação cistoscópica de duplo J unilateral,2022-08-10,Internação,102.5
+19.803.199/0001-14,CAMPO OPERATORIO DESC.PRE-LAV.ESTERIL RX 45X45CM RAIO GAMA COM 5UNID DPLA.EMB.CREP.206.005 -  206.005,2022-08-10,Internação,84.6
+60.884.855/0012-07,TAXA DE SERVIÇO DE ARMAZENAMENTO. MANIPULAÇÃO. ESTERELIZAÇÃO. DISPENSAÇÃO. CONTROLE E AQUISIÇÃO DE ÓRTESES. PRÓTESES e MATERIAIS ESPECIAIS,2022-09-05,Internação,1379.94
+61.486.650/0812-48,Proteína C reativa. qualitativa - pesquisa,2022-08-14,Internação,15.66
+96.534.300/0001-20,DIÁRIA DE  UTI INFANTIL/PEDIÁTRICA ,2022-08-17,Internação,3394.88
+21.371.777/0001-32,EQUIPO PARA INFUSAO MULTIPLA 2VIAS POLIFIX 2 COM SPIN LOCK 409102 -  409102,2022-09-03,Internação,5.5
+21.371.777/0001-32,LIPURO - 10 MG/ML EMU INJ CX 05 AMP VD INC X 20 ML - LABORATÓRIOS B. BRAUN S/A,2022-09-03,Internação,149.18
+21.371.777/0001-32,EQUIPO DE BOMBA -  350202,2022-09-03,Internação,700.0
+21.371.777/0001-32,ALUGUEL/TAXA DE BISTURI ELÉTRICO COM ALÇA LEEP. POR USO,2022-09-03,Internação,12.73
+21.371.777/0001-32,TORNEIRINHA 3VIAS DESC.LL PARA SOL.DISCOFIX-C 16496C -  16496C,2022-09-03,Internação,20.94
+21.371.777/0001-32,BISTURI DESC.ESTERIL COM CABO PLASTICO/PROTETOR NR.10 AESCULAP BA210 -  BA210,2022-09-03,Internação,63.12
+21.371.777/0001-32,TAXA DE SALA CIRÚRGICA. RECUPERAÇÃO PÓS ANESTÉSICA,2022-09-03,Internação,78.93
+21.371.777/0001-32,FILTRO BACTERIANO/VIRAL PERMUTADOR CALOR/UMIDADE 1541011 -  1541011,2022-09-03,Internação,250.0
+21.371.777/0001-32,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-09-03,Internação,20.0
+21.371.777/0001-32,COLETOR SECRECAO VIA AEREA 1000ML-ESTERIL FA1000 -  FA1000,2022-09-03,Internação,592.0
+21.371.777/0001-32,Materiais simples,2022-09-03,Internação,16.7
+../-,DECADRONAL - 8MG/ML SUS INJ CT FA INC X 2 ML - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A.,2022-09-02,Internação,11.53
+../-,SERINGA DESCARTAVEL 20 ML LUER SLIP -  20 ML LUER SLIP,2022-09-03,Internação,7.1
+../-,CLORETO DE SÓDIO - BAXTER - 9 MG/ML SOL INJ IV BOLS PVC INC SIST FECH X 50 ML - BAXTER HOSPITALAR LTDA,2022-09-02,Internação,9.96
+../-,AGUA PARA INJEÇÃO - SOL INJ CX 50  AMP VD INC X 2 ML - 90183720,2022-09-02,Internação,12.4
+../-,NAROPIN - 10 MG/ML SOL INJ CT 5 AMP PLAS X 20 ML EST INDIV ESTEREIS - ASTRAZENECA DO BRASIL LTDA,2022-09-02,Internação,55.26
+../-,CLORETO DE SÓDIO - AMP 10ML 0.9% - HALEX ISTAR INDÚSTRIA FARMACÊUTICA LTDA,2022-09-02,Internação,2.42
+../-,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-09-02,Internação,10.0
+../-,SERINGA DESCARTAVEL 20 ML LUER SLIP -  20 ML LUER SLIP,2022-09-02,Internação,18.08
+29.435.005/0057-83,PACOTE - DIARIA ENFERMARIA,2022-08-20,Internação,1937.35
+60.884.855/0003-16,FIBRINASE COM CLORANFENICOL - 666UI/G + 1UI/G + 10M/G POM DERM CT BG AL X 10 G - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-22,Internação,89.72
+60.884.855/0003-16,MASCARA FACIAL PERFORMATRAK GRD.COM HEADGEAR 1012635 -  1012635,2022-08-23,Internação,36.0
+60.884.855/0003-16,SOLUCAO DE RINGER COM LACTATO - SOL INJ IV CX 20 BOLS PVC SIST FECH X 500 ML  - JP INDUSTRIA FARMACEUTICA S/A,2022-08-21,Internação,12.0
+60.884.855/0003-16,LYRICA - 75 MG CAP GEL DURA CT BL AL PLAS INC X 28 - LABORATORIOS PFIZER LTDA.,2022-08-22,Internação,6.14
+60.884.855/0003-16,TRAMADON - 100 MG/ML SOL OR CT FR VD AMB GOT X 10 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-22,Internação,18.43
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-08-21,Internação,5.04
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-08-21,Internação,17.09
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-08-23,Internação,3.33
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-08-22,Internação,17.09
+60.884.855/0003-16,LUVA PLASTICA TRANSPARENTE 100PCS - 100 UND,2022-08-23,Internação,16.5
+60.884.855/0003-16,ATADURA CREPE 20CMX1.8MT 13FIOS NBR14056 H00120 -  H00120,2022-08-22,Internação,0.18
+60.884.855/0003-16,TRAMADON - 100 MG/ML SOL OR CT FR VD AMB GOT X 10 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-22,Internação,18.43
+60.884.855/0003-16,MASCARA FACIAL PERFORMATRAK GRD.COM HEADGEAR 1012635 -  1012635,2022-08-21,Internação,36.0
+60.884.855/0003-16,TRAMADON - 100 MG/ML SOL OR CT FR VD AMB GOT X 10 ML - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-21,Internação,18.43
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-08-21,Internação,17.09
+60.884.855/0003-16,PANTOZOL - 40 MG COM REV CT BL AL/AL X 42 - NYCOMED PHARMA LTDA.,2022-08-23,Internação,8.16
+60.884.855/0003-16,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-08-22,Internação,0.73
+60.884.855/0003-16,Visita hospitalar (paciente internado),2022-08-23,Internação,155.4
+60.884.855/0003-16,TAXA DE APLICAÇÃO DE INJEÇÃO EV. FORA DA UTI/SEMI-UTI E DO CENTRO CIRÚRGICO. POR USO/SESSÃO,2022-08-22,Internação,5.04
+60.884.855/0003-16,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-08-22,Internação,3.33
+60.884.855/0003-16,SERINGA PRE-ENCHIDA COM SOLUCAO SALINA POSIFLUSH 3ML 306544 -  306544,2022-08-22,Internação,17.09
+61.486.650/0812-48,Reserva alcalina (bicarbonato) - pesquisa e/ou dosagem,2022-08-23,Internação,3.27
+19.803.199/0001-14,LIPURO - 10 MG/ML EMU INJ CX 05 AMP VD INC X 20 ML - LABORATÓRIOS B. BRAUN S/A,2022-08-24,Internação,74.59
+19.803.199/0001-14,AGULHA PARA ASPIRACAO 25X12 305243 -  305243,2022-08-24,Internação,3.72
+19.803.199/0001-14,CEFTRIAXONA-CEFTRIONA - 1G PÓ LIOF INJ CX 50 FA VD INC - NOVAFARMA INDÚSTRIA FARMACÊUTICA LTDA,2022-08-24,Internação,94.73
+11.006.293/0001-30,CATETER VENOSO PERIFERICO PUR DISP.SEGURANCA INTROCAN SAFETY G24X3/4pol 4251601 -  4251601,2022-10-06,Internação,112.41
+11.006.293/0001-30,Medicamento Vários,2022-10-06,Internação,181.06
+11.006.293/0001-30,RINGER COM LACTATO DE SÓDIO BASA  - SOL INJ IV CX 16 FR PP TRANS SIST FECH X 1000 ML  - INDUSTRIA FARMACEUTICA BASA LTDA,2022-10-06,Internação,20.6
+60.884.855/0033-31,Reconstrução da falange com retalho homodigital,2022-09-14,Internação,236.8
+60.884.855/0033-31,Linfadenectomia axilar,2022-09-14,Internação,1539.2
+60.884.855/0033-31,Procedimento diagnóstico por captura híbrida ,2022-09-15,Internação,668.22
+60.884.855/0033-31,Exploração cirúrgica de nervo (neurólise externa),2022-09-14,Internação,219.04
+60.884.855/0033-31,Linfadenectomia axilar,2022-09-14,Internação,888.0
+60.884.855/0033-31,Exploração cirúrgica de nervo (neurólise externa),2022-09-14,Internação,296.0
+60.884.855/0019-83,Parto (via vaginal),2022-08-26,Internação,243.97
+60.884.855/0019-83,PACOTE DE PARTO NORMAL,2022-08-26,Internação,6609.55
+60.884.855/0033-31,PERNEIRA KAMBIA ATE A COXA M 71.1CM - 73042,2022-08-29,Internação,1955.56
+11.006.293/0001-30,CANETA PARA ELETRO-BISTURI -  BMSD100,2022-08-28,Internação,255.06
+11.006.293/0001-30,SEVONESS - 100 PCC LIQ INAL 1 FR AL X 250 ML - BAXTER HOSPITALAR LTDA,2022-08-28,Internação,297.3
+11.006.293/0001-30,PROPOVAN - 10 MG/ML EMU INJ CX 5 FA VD INC X 20 ML (REST HOSP)  - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-28,Internação,60.51
+11.006.293/0001-30,ALUGUEL/TAXA DE BISTURI  BIPOLAR. POR USO,2022-08-28,Internação,84.6
+11.006.293/0001-30,Materiais simples,2022-08-28,Internação,39.24
+11.006.293/0001-30,XYLESTESIN - 2 PCC SOL INJ CX 10 FA VD INC X 20 ML (EMB. HOSP.) - CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.,2022-08-28,Internação,21.38
+11.006.293/0001-30,PACOTE DIÁRIA GLOBAL,2022-08-28,Internação,1899.0
+60.884.855/0033-31,Hérnia de disco tóraco-lombar - tratamento cirúrgico,2022-09-10,Internação,592.0
+60.884.855/0033-31,SOLUÇÃO GLICOFISIOLÓGICA EQUIPLEX - (9 MG + 50 MG)/ML SOL INJ IV CX 48 FA PLAS TRANS SIST FECH X 250 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-09-10,Internação,25564.25
+60.884.855/0033-31,Monitorização neurofisiológica intra-operatória ,2022-09-10,Internação,103.6
+29.435.005/0057-83,CLORETO DE SÓDIO 0.9% - 9 MG/ML SOL INJ IV CX 100 BOLS PLAS PVC INC X 200 ML (SIST FECHADO) - ANTIBIÓTICOS DO BRASIL LTDA,2022-10-14,Internação,9.63
+29.435.005/0057-83,LAMINA BISTURI ESTERIL NR.15 100UNID FEATHER 4004.15 -  4004.15,2022-09-22,Internação,5.38
+29.435.005/0057-83,SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA - 5 MG/G + 250 UI/G POM DERM CT BG AL X 15 G - CIMED INDÚSTRIA DE MEDICAMENTOS LTDA,2022-09-22,Internação,9.23
+29.435.005/0057-83,AGUA P/ INJEÇÃO - SOL INJ CX 12 FR PE SIST FECH X 1000 ML - EQUIPLEX INDÚSTRIA FARMACÊUTICA LTDA,2022-09-22,Internação,1.54
+60.884.855/0033-31,PACOTE ARTRODESE DE COLUNA ,2022-10-14,Internação,888.0
+29.435.005/0057-83,MASCARA FACIAL COMFORT FULL LARGE 1004951 -  1004951,2022-09-07,Internação,272.0
+29.435.005/0057-83,CANETA PARA ELETRO-BISTURI -  BMSD100,2022-09-08,Internação,259.7
+29.435.005/0057-83,IOMERON 612.4 MG/ML SOL INJ CT FA VD INC X 100 ML | 1,2022-09-07,Internação,187.4
+29.435.005/0057-83,LIPURO - 10 MG/ML EMU INJ CX 05 AMP VD INC X 20 ML - LABORATÓRIOS B. BRAUN S/A,2022-09-08,Internação,56.63
